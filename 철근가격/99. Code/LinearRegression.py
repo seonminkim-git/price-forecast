@@ -32,7 +32,7 @@ rc('font', family=font)
 # %%
 current_path = os.getcwd()
 os.chdir(current_path)
-with open('./data/data-raw,corr.pkl', 'rb') as file:
+with open('../01. Data/data-raw,corr.pkl', 'rb') as file:
     y, x, corrcoef = pickle.load(file)
     
 y.index = y.index.to_timestamp()
