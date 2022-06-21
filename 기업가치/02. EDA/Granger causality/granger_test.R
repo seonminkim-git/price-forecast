@@ -30,7 +30,6 @@ for (i in colnames(new_df[,2:(ncol(new_df)-3)])) {
   lag_0_reserve <- c(round(g$'Pr(>F)'[2], digits =3))
   data<- data.frame(col, lag_0_reserve)
   out <- rbind(out, data)
-  #  data <- rbind(data, round(g$'Pr(>F)'[2], digits =3))
 }
 # out
 
@@ -44,7 +43,6 @@ for (i in colnames(new_df[,2:(ncol(new_df)-3)])) {
   lag_0 <- c(round(g2$'Pr(>F)'[2], digits =3))
   data2<- data.frame(col, lag_0)
   out2 <- rbind(out2, data2)
-  # data <- rbind(data, round(g$'Pr(>F)'[2], digits =3))
 }
 # out2
 
