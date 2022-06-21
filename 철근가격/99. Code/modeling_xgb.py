@@ -21,25 +21,6 @@ import matplotlib.pyplot as plt
 plt.rc('font', family='AppleGothic')
 plt.rcParams['axes.unicode_minus'] = False  # 한글 폰트 사용시 마이너스 폰트 깨짐 해결
 
-# functions
-
-def save_plot(trival, tsival):
-    fig, ax = plt.subplots()
-
-    plt.rcParams["figure.figsize"] = [10, 5]
-
-    y_df = pd.DataFrame(y)
-    result_df = pd.merge(predict_table, y_df, left_index = True, right_index= True, how='outer')
-
-    plt.plot(result_df['철근(천원_톤)'].values, label = 'original')
-    plt.plot(result_df['y_actual'].values, label = 'actual')
-    plt.plot(result_df['y_pred'].values, label = 'pred')
-    plt.legend(loc='lower right')
-
-    plt.title(f'변수: {ip}, 학습기간: {trival}, 예측기간: {tsival}')
-
-    # plt.show()
-    return plt.savefig('./plot_' + str(algo) +'_변수_' + str(ip) + '_학습기간_' + str(trival) + '_예측기간_' + str(tsival) + '.png')
 
 do_xgb = True
 
@@ -113,8 +94,6 @@ if do_xgb:
                         predict_table = pd.concat([predict_table, tmp], axis=0)
 
                         predict_table.to_csv('./' + str(algo) + '_변수_' + str(ip) + '_학습기간_' + str(trival) + '_예측기간_' + str(tsival) +' .csv', index=True, encoding='utf-8-sig')
-
-                        save_plot(tsival, trival)
 
                     else:
                         test_idx = np.delete(test_idx, np.where(test_idx == i))
