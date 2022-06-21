@@ -18,10 +18,9 @@ from dash import Dash, dash_table
 import plotly.graph_objs as go
 import plotly.express as px
 import plotly.figure_factory as ff
+from plotly.subplots import make_subplots
 
 from datetime import datetime
-
-from sqlalchemy import true
 
 # %% 
 # IMPORT DATA
@@ -139,8 +138,7 @@ drop_date = dcc.Dropdown(
     id = 'drop_date',
     clearable = False,
     searchable = False,
-    options = [{'label': i, 'value': idx} for idx, i in list(enumerate(['3m','1y','3y','5y','10y']))],
-    # '3 months','1 year','3 years','5 years','10 years'
+    options = [{'label': i, 'value': idx} for idx, i in list(enumerate(['3 months','1 year','3 years','5 years','10 years']))],
     value = 0,
     style={
         "margin": "4px",
@@ -416,13 +414,13 @@ def update_checklist(dropvalue):
                Input("checklist_cat","value")])
 def output(category, select1, sub, select2):
     cols = []
-    fig1 = go.Figure()
+    fig1 = make_subplots(specs=[[{"secondary_y": True}]])
     fig1.add_trace(go.Scatter(x = x.index.to_timestamp(), y = y.values,
                               name = "철근 가격", mode='lines',
                               text= y.values,
                               hovertemplate='%{text}',
-                              marker = {'color': '#32699C'},
-                              yaxis='y1'))
+                              line = {'color': '#32699C', 'width': 4, 'dash':'dot'}), 
+                   secondary_y=False)
     fig2 = go.Figure()
     fig3 = go.Figure()
     fig4 = go.Figure()
@@ -440,8 +438,8 @@ def output(category, select1, sub, select2):
                                   name = c.split('-')[1], mode='lines',
                                   marker = {'color':colors[tmp]},
                                   text = x[c].values,
-                                  hovertemplate='%{text}'+'(scaled: %{y:.2f})',
-                                  yaxis='y2'))
+                                  hovertemplate='%{text}'+' (scaled: %{y:.2f})'), 
+                       secondary_y=True)
         
         fig2.add_trace(go.Scatter(x=corrcoef.columns[:(-2)], y=corrcoef.loc[c,:].values,
                             mode='markers+lines', name = c.split('-')[1],
@@ -490,20 +488,12 @@ def output(category, select1, sub, select2):
             linecolor = "#BCCCDC",
             showgrid = True,
             gridwidth=1, gridcolor='#FFF'
-        ),
-        yaxis=dict(
-            title="철근 가격",
-            linecolor="#BCCCDC",
-            showgrid=True,
-            titlefont=dict(
-                color="#32699C"
-            ),
-            tickfont=dict(
-                color="#32699C"
-            ),
-            gridwidth=1, gridcolor='#FFF'
-        ),
-        yaxis2 = dict(title = "Factors (MinMax Scaled)", side='right'))
+        ) 
+        )
+    fig1.update_yaxes(title_text="<b>철근 가격</b>", secondary_y=False,
+                      linecolor = "#BCCCDC", showgrid=True, titlefont=dict(color="#32699C"),
+                      tickfont = dict(color="#32699C"), gridwidth=1, gridcolor = '#FFF')
+    fig1.update_yaxes(title_text="<b>Factors</b>(MinMax Scaled)", secondary_y=True)
     
     fig2.update_layout(legend_x = 0.0, legend_y = -0.55,
                        legend = dict(orientation='h'),
@@ -567,15 +557,14 @@ def output(category, select1, sub, select2):
 @app.callback([Output("graph_compare1", "figure"),
                Output("graph_compare2", "figure")],
               [Input("drop_date","value"),
-               Input("drop_date","options"),
                Input("drop_input","value"),
                Input("drop_input","options"),
                Input("drop_perform","value")])
-def output(dates,drop_date_dict, drop_input,drop_input_dict, performs):
+def output(dates, drop_input,drop_input_dict, performs):
     tmp = compare_model.copy()
     
-    date_idx = drop_date_dict[dates]['label']
-    
+    date_dict = {0: '3m', 1: '1y', 2: '3y', 3: '5y', 4:'10y'}
+    date_idx = date_dict[dates] # label값 가져오기(3 month, 1 year...)
     tmp = tmp[tmp['date'] == date_idx]   
    
     if performs == 0:
@@ -592,10 +581,9 @@ def output(dates,drop_date_dict, drop_input,drop_input_dict, performs):
     input_idx = drop_input_dict[drop_input]['label']
     t = tmp[tmp['input'] == input_idx]
     t.reset_index(drop=True, inplace=True)
-    
-    # print("t table::", t)
+
     fig2.add_trace(go.Scatter(x = y[-12:].index.to_timestamp(), y = y[-12:].values,
-                              name='Y value', line=dict(color=colors[0], width=5)))
+                              name='Y value', line=dict(color=colors[0], width=5, dash='dot')))
     for c in range(len(t)):
         fig1.add_trace(go.Bar(x = [t.loc[c,'model']],
                               y = [t.loc[c,'perform']],
@@ -646,6 +634,7 @@ def output(dates,drop_date_dict, drop_input,drop_input_dict, performs):
 
  
 if __name__ == '__main__':
-    app.run_server(debug=True, use_reloader=False) # debug=False 옵션으로 "<>"아이콘 제거 가능, debug 필요시 debug=True 로 설정
+    # debug=False 옵션으로 "<>"아이콘 제거 가능, debug 필요시 debug=True 로 설정
+    app.run_server(debug=True, use_reloader=False)
 
 # %%
