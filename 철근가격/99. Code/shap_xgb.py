@@ -127,11 +127,15 @@ for algo, ip, fv in feature_set_xgb_lowest:
                 shap_values = explainer.shap_values(x_test_)
                 shap_df = pd.DataFrame(shap_values)
                 shap_df.columns = fv.columns
-                tmp_shap = pd.concat([tmp_shap, shap_df], axis=0)
+                tmp_shap = pd.concat([tmp_shap, shap_df], axis=0).reset_index(drop=True)
                 print(tmp_shap)
-                tmp_shap.to_csv(
-                    './shap_' + str(algo) + '_변수_' + str(ip) + '_학습기간_' + str(trival) + '_예측기간_' + str(
-                        tsival) + '.csv', index=True, encoding='utf-8-sig')
+#                 tmp_shap.to_csv(
+#                     './shap_' + str(algo) + '_변수_' + str(ip) + '_학습기간_' + str(trival) + '_예측기간_' + str(
+#                         tsival) + '.csv', index=True, encoding='utf-8-sig')
+
+tmp_shap_ = pd.DataFrame((zip(fv.columns[np.argsort(np.abs(tmp_shap).mean(0))], np.abs(tmp_shap).mean(0))), 
+                         columns=["feature", "importance" ]).sort_values(by="importance", ascending=False)
+tmp_shap_.to_csv('./shap_' + str(algo) +'_변수_' + str(ip) + '_학습기간_' + str(trival) + '_예측기간_' + str(tsival) + '.csv', index=True, encoding='utf-8-sig')
 
 
 
