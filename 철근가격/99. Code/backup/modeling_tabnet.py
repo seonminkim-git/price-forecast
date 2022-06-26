@@ -66,7 +66,7 @@ if do_xlag:
 train_ival = [3, 12, 36, 60, 120]# [3, 12, 36, 60, 120]  # (train_ival) months 데이터로 학습
 test_ival = [1]#[1, 3, 6, 12]  # (test_ival) month 후 값을 예측
 
-with open('data-raw,corr.pkl', 'rb') as file:
+with open('../../01. Data/data-raw,corr.pkl', 'rb') as file:
     y, x, corrcoef = pickle.load(file)
 
 y.index = y.index.to_timestamp()
