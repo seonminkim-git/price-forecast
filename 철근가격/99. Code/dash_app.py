@@ -33,11 +33,11 @@ df = x.copy()
 compare_model = pd.read_csv("../01. Data/dash_compare_model.csv", encoding='cp949')
 
 top5 = pd.read_csv("../01. Data/dash_top5 models.csv", encoding='cp949')
-top5_model1 = pd.read_csv("../01. Data/dash_top5_model1.csv")
-top5_model2 = pd.read_csv("../01. Data/dash_top5_model2.csv")
-top5_model3 = pd.read_csv("../01. Data/dash_top5_model3.csv")
-top5_model4 = pd.read_csv("../01. Data/dash_top5_model4.csv")
-top5_model5 = pd.read_csv("../01. Data/dash_top5_model5.csv")
+top5_model1 = pd.read_csv("../01. Data/dash_top5_model1.csv", encoding='cp949')
+top5_model2 = pd.read_csv("../01. Data/dash_top5_model2.csv", encoding='cp949')
+top5_model3 = pd.read_csv("../01. Data/dash_top5_model3.csv", encoding='cp949')
+top5_model4 = pd.read_csv("../01. Data/dash_top5_model4.csv", encoding='cp949')
+top5_model5 = pd.read_csv("../01. Data/dash_top5_model5.csv", encoding='cp949')
 
 # 사용할 Color setting
 category = np.unique([i.split('-')[0] for i in x.columns])
@@ -108,8 +108,7 @@ top5_table = dash_table.DataTable(
 )
 
 # TAB1 - TEXT
-# text_content = "과제 내용 설명, 데이터 설명, ... (As the industry’s first index fund for individual investors, the Index Fund is a low-cost way to gain diversified exposure to the U.S. equity market. The fund offers exposure to of the largest U.S. companies, which span many different industries and account for about three-fourths of the U.S. stock market’s value. The key risk for the fund is the volatility that comes with its full exposure to the stock market. Because the Index Fund is broadlydiversified within the large-capitalization market, it may be considered a core equity holding in a portfolio.) "
-text_content = "철근 가격 예측을 위해 특정 기준(단변량/공급small/공급large/전부)으로 구분하고 학습 기간을 최소 3개월~ 최대 10년으로 진행했습니다. 모델 평가지표로는 MAPE와 RMSE를 활용하였으며, 실제값과 예측값을 비교해보았습니다. 자세한 내용들은 해당 페이지의 Tab을 통해 확인할 수 있습니다."
+# text_content = "철근 가격 예측을 위해 특정 기준(단변량/공급small/공급large/전부)으로 구분하고 학습 기간을 최소 3개월~ 최대 10년으로 진행했습니다. 모델 평가지표로는 MAPE와 RMSE를 활용하였으며, 실제값과 예측값을 비교해보았습니다. 자세한 내용들은 해당 페이지의 Tab을 통해 확인할 수 있습니다."
 
 # TAB2 - INPUT(X)
 drop_cat = dcc.Dropdown(
@@ -190,10 +189,10 @@ NAVBAR = dbc.Navbar(
 
 # TAB1
 tab1 = html.Div(children = [
-    html.Div([html.H3("SK에코플랜트 철근 가격 예측 Summary", style = {'margin':'30px'}),
-              html.P(text_content, style = {'margin':'35px'})],
-                className='overview-contents',
-                style = {'margin-top':'5px','margin-bottom':'5px'}),
+    # html.Div([html.H3("SK에코플랜트 철근 가격 예측 Summary", style = {'margin':'30px'}),
+    #           html.P(text_content, style = {'margin':'35px'})],
+    #             className='overview-contents',
+    #             style = {'margin-top':'5px','margin-bottom':'5px'}),
     
     html.Div(children = [
         html.Div(children = [
@@ -343,7 +342,10 @@ def update_feat_graph(update, active_cell):
             gridwidth = 1, gridcolor = "#FFF"
         ),
         yaxis = dict(
-            title = "Features",
+            # tickangle=-45,
+            # showticklabels=False,
+            tickfont=dict(size=9),
+            # title = "Features",
             linecolor = "#BCCCDC",
             showgrid = True,
             gridwidth = 1, gridcolor = "#FFF"
