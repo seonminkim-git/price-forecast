@@ -22,7 +22,7 @@ opt = ''
 do_PCA = False
 do_mrmr = False
 do_xlag = False
-train_size = [3]  # (train_ival) months 데이터로 학습
+train_size = [3, 12, 36, 60, 120]  # (train_ival) months 데이터로 학습
 test_size = [1, 3, 6, 12]  # (test_ival) month 후 값을 예측
 # test_ival = [datetime.datetime(2020, 1, 1), datetime.datetime(2021, 1, 1)]  # 2020년 1월 이후 2021년 1월 이전
 test_ival = [datetime.datetime(2021, 1, 1), None]  # 2021년 1월 이후 데이터를 테스트 데이터로 사용
@@ -72,7 +72,7 @@ for trsz in train_size:  # 학습 데이터 사이즈. 현 시점 기준 몇 달
         yhat = []
         cnt += 1
         for i in test_idx:  # 테스트 기간 한 포인트마다 windowing하며 학습 & 테스트
-            train_idx = list(range(i-trsz-tssz+1, i-tssz+1))  # 해당 시점 테스트 시 학습 데이터 구간
+            train_idx = list(range(max(0, i-trsz-tssz+1), i-tssz+1))  # 해당 시점 테스트 시 학습 데이터 구간
 
             """ split into train/test set """
             x_train, y_train = X.iloc[train_idx], y.iloc[train_idx]
