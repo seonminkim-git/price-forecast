@@ -5,6 +5,7 @@ import pandas as pd
 from fbprophet import Prophet as fbProphet
 from pmdarima.arima import ndiffs
 import pmdarima as pm
+import xgboost as xgb
 from pytorch_tabnet.tab_model import TabNetRegressor
 
 
@@ -46,6 +47,14 @@ def ARIMAX(x_train, y_train, x_test, y_test):
     model.fit(y_train)
 
     yhat_test = [model.predict(n_periods=tsival)[-1]]  # 한 포인트마다 predict
+    return model, yhat_test
+
+
+def XGB(x_train, y_train, x_test, y_test):
+    model = xgb.XGBRegressor(random_state=1)
+    model.fit(x_train, y_train)
+
+    yhat_test = model.predict(x_test.to_frame().T.values)
     return model, yhat_test
 
 
