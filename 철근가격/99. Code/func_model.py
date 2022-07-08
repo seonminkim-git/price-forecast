@@ -1,12 +1,18 @@
 import os
-import datetime
 import numpy as np
 import pandas as pd
 from fbprophet import Prophet as fbProphet
 from pmdarima.arima import ndiffs
 import pmdarima as pm
 import xgboost as xgb
+from sklearn.linear_model import ElasticNet as f_ElasticNet
+from sklearn.model_selection import GridSearchCV
+from lightgbm import LGBMRegressor
 from pytorch_tabnet.tab_model import TabNetRegressor
+
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
+os.environ["OMP_NUM_THREADS"] = "1"
 
 
 def Prophet(x_train, y_train, x_test, y_test):
@@ -58,6 +64,22 @@ def XGB(x_train, y_train, x_test, y_test):
     return model, yhat_test
 
 
+def ElasticNet(x_train, y_train, x_test, y_test):
+    elasticnet = f_ElasticNet()
+    parameters = {'alpha': np.logspace(-4, 0, 200)}
+    model = GridSearchCV(elasticnet, parameters, scoring='neg_mean_squared_error', cv=5)
+    model.fit(x_train, y_train)
+    yhat_test = model.predict(x_test.values)
+    return model, yhat_test
+
+
+def LGBM(x_train, y_train, x_test, y_test):
+    model = LGBMRegressor()
+    model.fit(x_train.values, y_train.values)
+    yhat_test = model.predict(x_test.values)
+    return model, yhat_test
+
+
 def TabNet(x_train, y_train, x_test, y_test):
     x_train = x_train.values
     x_test = x_test.values if type(x_test).__name__ == 'DataFrame' else x_test.values.reshape(1, x_test.shape[0])  # Series
@@ -80,6 +102,12 @@ def TabNet(x_train, y_train, x_test, y_test):
 
         yhat_test = [y[0] for y in model.predict(x_test)]
 
+    return model, yhat_test
+
+
+def DataRobot(x_train, y_train, x_test, y_test):
+    """ Light GBM Regressor with GBDT with Boosting on Residuals """
+    model, yhat_test = [], []
     return model, yhat_test
 
 
