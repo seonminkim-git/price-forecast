@@ -1,0 +1,34 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Infosys,ROGI(%),수익성,0.0,0.787,0.753
+Infosys,무형자산회전율s,활동성,0.0,0.782,0.748
+Infosys,FS_Working Capital to Total Assets,FS,5.0,0.703,0.662
+Infosys,FS_Current Ratio,FS,5.0,0.629,0.57
+Infosys,유동비율(비율),안정성,2.0,0.629,0.57
+Infosys,BS_Additional Paid-In Capital,BS,5.0,0.622,0.56
+Infosys,BS_Shares Outs - Common Stock Primary Issue,BS,5.0,0.581,
+Infosys,BS_Total Common Shares Outstanding,BS,5.0,0.581,
+Infosys,IS_Basic Weighted Average Shares,IS,5.0,0.557,
+Infosys,IS_Diluted Weighted Average Shares,IS,5.0,0.518,
+Infosys,Opex Margin,수익성,0.0,0.503,
+Infosys,"BS_Total Operating Leases, Supplemental",BS,5.0,-0.502,
+Infosys,BS_Deferred Income Tax,BS,5.0,-0.53,
+Infosys,BS_Deferred Income Tax - LT Liability,BS,5.0,-0.53,
+Infosys,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",FS,5.0,-0.531,
+Infosys,"BS_Accumulated Intangible Amort, Suppl.",BS,5.0,-0.531,
+Infosys,BS_Short Term Investments,BS,5.0,-0.539,-0.626
+Infosys,"BS_Common Stock, Total",BS,5.0,-0.553,
+Infosys,자본금(천원),안정성,2.0,-0.553,
+Infosys,BS_Common Stock,BS,5.0,-0.553,
+Infosys,BS_Prepaid Expenses,BS,5.0,-0.561,
+Infosys,BS_Note Receivable - Long Term,BS,5.0,-0.562,
+Infosys,"IS_Advertising Expense, Supplemental",IS,5.0,-0.577,-0.533
+Infosys,CF_Other Financing Cash Flow,CF,5.0,-0.616,-0.552
+Infosys,CF_Financing Cash Flow Items,CF,5.0,-0.616,-0.552
+Infosys,BS_Long Term Investments,BS,5.0,-0.651,-0.685
+Infosys,BS_LT Investments - Other,BS,5.0,-0.651,-0.686
+Infosys,"IS_Amort of Intangibles, Supplemental",IS,5.0,-0.655,-0.623
+Infosys,비유동비율(천원),안정성,2.0,-0.74,-0.713
+Infosys,BS_Other Payables,BS,5.0,,0.761
+Infosys,BS_Restricted Cash - Current,BS,5.0,,0.577
+Infosys,"IS_Interest Inc.(Exp.),Net-Non-Op., Total",IS,5.0,,0.512
+Infosys,IS_Interest/Invest Income - Non-Operating,IS,5.0,,0.506

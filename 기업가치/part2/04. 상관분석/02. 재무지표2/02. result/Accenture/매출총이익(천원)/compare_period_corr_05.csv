@@ -1,0 +1,185 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Accenture,IS_Gross Profit,IS,5,1.0,1.0
+Accenture,FS_Gross Profit - Industrials/Property - Total,FS,5,1.0,1.0
+Accenture,EBIT(천원),수익성,1,0.995,0.993
+Accenture,IS_Normalized EBIT,IS,5,0.995,0.993
+Accenture,FS_Operating Profit before Non-Recurring Income/Expense,FS,5,0.995,0.993
+Accenture,IS_Normalized EBITDA,IS,5,0.994,0.994
+Accenture,"IS_Selling/General/Admin. Expenses, Total",IS,5,0.994,0.991
+Accenture,IS_Selling/General/Administrative Expense,IS,5,0.994,0.991
+Accenture,SG&A,수익성,2,0.994,0.991
+Accenture,IS_Net Sales,IS,5,0.993,0.99
+Accenture,매출액(천원),성장성,0,0.993,0.99
+Accenture,FS_Revenue from Business Activities - Total,FS,5,0.993,0.989
+Accenture,IS_Normalized Income Before Taxes,IS,5,0.993,0.991
+Accenture,IS_Total Revenue,IS,5,0.993,0.99
+Accenture,IS_Revenue,IS,5,0.993,0.99
+Accenture,EBITDA2(천원),수익성,1,0.991,0.985
+Accenture,"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",FS,5,0.991,0.985
+Accenture,IS_Total Operating Expense,IS,5,0.989,0.984
+Accenture,IS_Diluted Normalized EPS,IS,5,0.986,0.982
+Accenture,IS_Normalized Inc. Avail to Com.,IS,5,0.986,0.983
+Accenture,IS_Basic Normalized EPS,IS,5,0.985,0.981
+Accenture,IS_Normalized Income After Taxes,IS,5,0.985,0.977
+Accenture,"IS_Cost of Revenue, Total",IS,5,0.983,0.977
+Accenture,IS_Cost of Revenue,IS,5,0.983,0.977
+Accenture,매출원가(천원),성장성,2,0.983,0.977
+Accenture,"BS_Accounts Receivable - Trade, Net",BS,5,0.98,0.965
+Accenture,"BS_Total Receivables, Net",BS,5,0.98,0.965
+Accenture,BS_Total Current Liabilities,BS,5,0.977,0.968
+Accenture,영업이익(천원),수익성,1,0.974,0.952
+Accenture,IS_Operating Income,IS,5,0.974,0.952
+Accenture,IS_Net Income Before Taxes,IS,5,0.973,0.951
+Accenture,BS_Total Liabilities & Shareholders' Equity,BS,5,0.97,0.972
+Accenture,BS_Total Assets,BS,5,0.97,0.972
+Accenture,자산총계(천원),안정성,2,0.97,0.972
+Accenture,FS_Total Assets,FS,5,0.97,0.972
+Accenture,부채총계(천원),안정성,2,0.969,0.973
+Accenture,BS_Total Liabilities,BS,5,0.969,0.973
+Accenture,BS_Accrued Expenses,BS,5,0.968,0.948
+Accenture,IS_Diluted EPS Excluding ExtraOrd Items,IS,5,0.965,0.942
+Accenture,IS_Diluted EPS Including ExtraOrd Items,IS,5,0.964,0.94
+Accenture,IS_Net Income Before Extra. Items,IS,5,0.963,0.941
+Accenture,Employment Number,ET,2,0.963,0.957
+Accenture,IS_Income Available to Com Excl ExtraOrd,IS,5,0.963,0.941
+Accenture,IS_Basic EPS Including Extraordinary Items,IS,5,0.962,0.936
+Accenture,IS_Basic EPS Excluding Extraordinary Items,IS,5,0.962,0.938
+Accenture,BS_Total Current Assets less Inventory,BS,5,0.962,0.95
+Accenture,BS_Total Current Assets,BS,5,0.962,0.95
+Accenture,당기순이익(천원),수익성,1,0.962,0.939
+Accenture,유동자산(천원),안정성,2,0.962,0.95
+Accenture,IS_Income Available to Com Incl ExtraOrd,IS,5,0.962,0.939
+Accenture,FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,FS,5,0.962,0.936
+Accenture,IS_Net Income,IS,5,0.962,0.939
+Accenture,"EPS(지배, Adj.)(원/주)",수익성,2,0.962,0.936
+Accenture,FS_Market Capitalization,FS,5,0.96,0.945
+Accenture,IS_Diluted Net Income,IS,5,0.958,0.925
+Accenture,BS_Total Equity,BS,5,0.957,0.933
+Accenture,FS_Common Equity - Total,FS,5,0.957,0.933
+Accenture,BS_Customer Advances,BS,5,0.957,0.933
+Accenture,BS_Deferred Revenue - Current,BS,5,0.957,0.933
+Accenture,IS_Net Income After Taxes,IS,5,0.956,0.922
+Accenture,FS_Income before Discontinued Operations & Extraordinary Items,FS,5,0.956,0.922
+Accenture,BS_Goodwill - Net,BS,5,0.955,0.919
+Accenture,"BS_Goodwill, Net",BS,5,0.955,0.919
+Accenture,BS_Total Equity & Minority Interest,BS,5,0.952,0.922
+Accenture,비유동자산(천원),안정성,2,0.95,0.923
+Accenture,BS_Accounts Payable,BS,5,0.946,0.895
+Accenture,"BS_Other Long Term Assets, Total",BS,5,0.94,0.942
+Accenture,BS_Other Current Assets,BS,5,0.936,0.875
+Accenture,BS_Other Equity,BS,5,0.933,0.895
+Accenture,BS_Pension Benefits - Underfunded,BS,5,0.928,0.883
+Accenture,Gross Investment (GI),성장성,2,0.927,0.846
+Accenture,"BS_Other Current liabilities, Total",BS,5,0.923,0.845
+Accenture,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",FS,5,0.916,0.914
+Accenture,자기자본비율,안정성,2,0.915,0.943
+Accenture,"BS_Other Liabilities, Total",BS,5,0.911,0.846
+Accenture,BS_Operating Lease Payments Due in Year 4,BS,5,0.902,0.888
+Accenture,"IS_Stock-Based Compensation, Supplemental",IS,5,0.9,0.875
+Accenture,BS_Defered Income Tax - Long Term Asset,BS,5,0.897,0.854
+Accenture,BS_Additional Paid-In Capital,BS,5,0.894,0.77
+Accenture,BS_Deferred Income Tax - LT Liability,BS,5,0.891,0.764
+Accenture,BS_Deferred Income Tax,BS,5,0.891,0.764
+Accenture,BS_Deferred Charges,BS,5,0.888,0.907
+Accenture,BS_Operating Lease Pymts. Due in 4-5 Years,BS,5,0.883,0.872
+Accenture,"BS_Tangible Book Value, Common Equity",BS,5,0.878,0.868
+Accenture,이익잉여금(천원),수익성,2,0.865,0.825
+Accenture,BS_Retained Earnings (Accumulated Deficit),BS,5,0.865,0.825
+Accenture,BS_Full-Time Employees,BS,5,0.864,0.849
+Accenture,BS_Other Long Term Liabilities,BS,5,0.86,0.704
+Accenture,IS_Provision for Income Taxes,IS,5,0.856,0.758
+Accenture,BS_Operating Lease Payments Due in Year 5,BS,5,0.856,0.85
+Accenture,CF_Net Cash - Beginning Balance,CF,5,0.845,0.709
+Accenture,"BS_Total Operating Leases, Supplemental",BS,5,0.843,0.839
+Accenture,BS_Operating Lease Payments Due in Year 3,BS,5,0.843,0.744
+Accenture,BS_Deferred Income Tax - Current Asset,BS,5,0.838,0.928
+Accenture,BS_Operating Lease Pymts. Due in 2-3 Years,BS,5,0.833,0.721
+Accenture,BS_Operating Lease Payments Due in Year 2,BS,5,0.822,0.698
+Accenture,"BS_Property/Plant/Equipment, Total - Gross",BS,5,0.818,0.626
+Accenture,BS_Deferred Revenue - Long Term,BS,5,0.806,0.8
+Accenture,"BS_Property/Plant/Equipment, Total - Net",BS,5,0.799,0.567
+Accenture,"BS_Other Current Assets, Total",BS,5,0.788,0.649
+Accenture,"IS_Minority Interest, Supplemental",IS,5,0.783,0.799
+Accenture,IS_Minority Interest,IS,5,0.783,0.799
+Accenture,CF_Net Income/Starting Line,CF,5,0.742,0.704
+Accenture,Opex Margin,수익성,0,0.739,0.738
+Accenture,FS_Cash & Cash Equivalents,FS,5,0.736,0.614
+Accenture,CF_Net Cash - Ending Balance,CF,5,0.736,0.614
+Accenture,BS_Cash & Equivalents,BS,5,0.736,0.614
+Accenture,CF_Depreciation,CF,5,0.732,0.604
+Accenture,CF_Depreciation/Depletion,CF,5,0.732,0.604
+Accenture,단기투자자산,안정성,1,0.719,0.575
+Accenture,CAPEX(천원),성장성,1,0.719,0.617
+Accenture,BS_Cash and Short Term Investments,BS,5,0.719,0.575
+Accenture,FS_CAPEX,FS,5,0.719,0.617
+Accenture,FS_Cash & Short-Term Investments,FS,5,0.719,0.575
+Accenture,"FS_Tax Complement, TTM",FS,5,0.699,0.778
+Accenture,FS_Net Cash Flow from Operating Activities,FS,5,0.689,0.596
+Accenture,BS_Other Property/Plant/Equipment - Gross,BS,5,0.619,
+Accenture,"FS_Income before Tax Margin - %, TTM",FS,5,0.598,0.508
+Accenture,FS_Operating Margin - %,FS,5,0.586,0.602
+Accenture,영업이익률(비율),수익성,2,0.586,0.602
+Accenture,BS_Shares Outs - Common Stock Primary Issue,BS,5,0.583,0.671
+Accenture,BS_Long Term Debt,BS,5,0.582,
+Accenture,BS_Total Long Term Debt,BS,5,0.582,
+Accenture,"IS_Depreciation, Supplemental",IS,5,0.558,0.567
+Accenture,Free Cash Flow2(천원),수익성,0,0.556,
+Accenture,CF_Free Cash Flow,CF,5,0.556,
+Accenture,CF_Cash from Operating Activities,CF,5,0.553,
+Accenture,"FS_Payables Turnover, TTM",FS,5,0.541,0.719
+Accenture,IS_Basic Weighted Average Shares,IS,5,0.539,0.627
+Accenture,FS_Interest Coverage Ratio,FS,5,0.534,0.847
+Accenture,이자보상율,안정성,2,0.534,
+Accenture,BS_Other Long Term Assets,BS,5,0.522,0.515
+Accenture,"IS_Interest Expense, Supplemental",IS,5,0.512,
+Accenture,"BS_Other Equity, Total",BS,5,-0.501,-0.629
+Accenture,CF_Sale/Maturity of Investment,CF,5,-0.51,-0.573
+Accenture,IS_Interest Expense - Non-Operating,IS,5,-0.512,
+Accenture,"IS_Interest Expense, Net Non-Operating",IS,5,-0.512,
+Accenture,BS_Short Term Investments,BS,5,-0.519,-0.627
+Accenture,CF_Net Changes in Working Capital,CF,5,-0.536,
+Accenture,CF_Changes in Working Capital,CF,5,-0.536,
+Accenture,운전자본증감(천원),안정성,2,-0.536,
+Accenture,FS_Total Debt Percentage of Total Capital,FS,5,-0.549,-0.674
+Accenture,FS_Total Debt Percentage of Total Equity,FS,5,-0.549,-0.674
+Accenture,FS_Working Capital to Total Assets,FS,5,-0.55,
+Accenture,"FS_Free Cash Flow Yield - %, TTM",FS,5,-0.552,
+Accenture,CF_Accounts Receivable,CF,5,-0.587,
+Accenture,CF_Other Assets,CF,5,-0.625,-0.535
+Accenture,CF_Cash from Financing Activities,CF,5,-0.635,-0.613
+Accenture,"BS_Accumulated Depreciation, Total",BS,5,-0.665,
+Accenture,유형자산감상비 누계,안정성,1,-0.665,
+Accenture,"FS_Earnings Retention Rate, TTM",FS,5,-0.667,-0.778
+Accenture,순부채(천원),안정성,2,-0.731,-0.619
+Accenture,BS_Net Debt Incl. Pref.Stock & Min.Interest,BS,5,-0.731,-0.619
+Accenture,CF_Cash from Investing Activities,CF,5,-0.731,-0.567
+Accenture,BS_Shares Outstanding - Common Issue 2,BS,5,-0.733,-0.827
+Accenture,"CF_Other Investing Cash Flow Items, Total",CF,5,-0.735,-0.553
+Accenture,ROE(지배)(비율),수익성,1,-0.736,-0.55
+Accenture,FS_ROE,FS,5,-0.736,-0.55
+Accenture,BS_Total Common Shares Outstanding,BS,5,-0.757,-0.848
+Accenture,FS_Common Shares - Outstanding - Total,FS,5,-0.757,-0.849
+Accenture,CF_Acquisition of Business,CF,5,-0.759,-0.62
+Accenture,인당영업이익s,수익성,1,-0.767,-0.708
+Accenture,CF_Cash Dividends Paid - Common,CF,5,-0.777,-0.836
+Accenture,CF_Total Cash Dividends Paid,CF,5,-0.777,-0.836
+Accenture,IS_Dilution Adjustment,IS,5,-0.79,-0.769
+Accenture,총자산회전율(비율),활동성,0,-0.805,-0.591
+Accenture,"FS_Asset Turnover, TTM",FS,5,-0.805,-0.591
+Accenture,"FS_Reinvestment Rate - %, TTM",FS,5,-0.813,-0.783
+Accenture,IS_Diluted Weighted Average Shares,IS,5,-0.82,-0.903
+Accenture,FS_Shares used to calculate Diluted EPS - Total,FS,5,-0.821,-0.903
+Accenture,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",FS,5,-0.838,-0.814
+Accenture,부채비율(비율),안정성,0,-0.852,-0.911
+Accenture,인당매출s,성장성,0,-0.908,-0.921
+Accenture,BS_Current Port. of LT Debt/Capital Leases,BS,5,,-0.501
+Accenture,BS_Minority Interest,BS,5,,-0.614
+Accenture,BS_Minority Interest - Non Redeemable,BS,5,,-0.614
+Accenture,BS_Note Receivable - Long Term,BS,5,,-0.558
+Accenture,CF_Cash Interest Paid,CF,5,,-0.636
+Accenture,CF_Cash Taxes Paid,CF,5,,0.525
+Accenture,CF_Purchase of Investments,CF,5,,0.557
+Accenture,FS_Total Debt Percentage of Total Assets,FS,5,,-0.628
+Accenture,Minority Interest - Total,ET,5,,-0.614
+Accenture,인당순이익s,수익성,2,,0.579
+Accenture,재고자산회전율(비율),활동성,2,,0.531

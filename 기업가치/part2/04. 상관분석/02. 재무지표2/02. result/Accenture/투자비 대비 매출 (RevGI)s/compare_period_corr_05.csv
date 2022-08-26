@@ -1,0 +1,9 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Accenture,CF_Sale/Maturity of Investment,CF,5,0.706,0.692
+Accenture,BS_Short Term Investments,BS,5,0.61,0.599
+Accenture,IS_Interest Income - Non-Operating,IS,5,0.578,0.562
+Accenture,BS_Note Receivable - Long Term,BS,5,0.576,0.563
+Accenture,BS_Current Port. of LT Debt/Capital Leases,BS,5,0.556,0.613
+Accenture,BS_Deferred Charges,BS,5,-0.511,
+Accenture,BS_Deferred Income Tax - Current Asset,BS,5,-0.526,
+Accenture,"FS_Payables Turnover, TTM",FS,5,-0.565,-0.555

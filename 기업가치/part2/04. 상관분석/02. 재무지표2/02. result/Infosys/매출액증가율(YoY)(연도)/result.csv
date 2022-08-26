@@ -1,0 +1,289 @@
+﻿company,variable,corr,group,importance
+Infosys,"BPS(지배, Adj.)(원/주)",0.843,안정성,2.0
+Infosys,BPS증가율(YoY)(비율),0.125,성장성,2.0
+Infosys,BS_Accounts Payable,-0.261,BS,5.0
+Infosys,"BS_Accounts Receivable - Trade, Gross",-0.568,BS,5.0
+Infosys,"BS_Accounts Receivable - Trade, Net",-0.541,BS,5.0
+Infosys,BS_Accrued Expenses,-0.499,BS,5.0
+Infosys,"BS_Accumulated Depreciation, Total",0.571,BS,5.0
+Infosys,"BS_Accumulated Intangible Amort, Suppl.",-0.498,BS,5.0
+Infosys,BS_Accumulated Intangible Amortization,0.555,BS,5.0
+Infosys,BS_Additional Paid-In Capital,0.036,BS,5.0
+Infosys,BS_Buildings - Gross,-0.691,BS,5.0
+Infosys,BS_Cash & Equivalents,-0.486,BS,5.0
+Infosys,BS_Cash and Short Term Investments,-0.753,BS,5.0
+Infosys,BS_Common Stock,-0.446,BS,5.0
+Infosys,"BS_Common Stock, Total",-0.446,BS,5.0
+Infosys,BS_Compensation Rate - Domestic,-0.696,BS,5.0
+Infosys,BS_Construction in Progress - Gross,-0.466,BS,5.0
+Infosys,BS_Customer Advances,-0.413,BS,5.0
+Infosys,BS_Defered Income Tax - Long Term Asset,-0.622,BS,5.0
+Infosys,BS_Deferred Income Tax,-0.411,BS,5.0
+Infosys,BS_Deferred Income Tax - LT Liability,-0.411,BS,5.0
+Infosys,BS_Deferred Revenue - Current,-0.411,BS,5.0
+Infosys,BS_Discount Rate - Domestic,0.144,BS,5.0
+Infosys,BS_Earnings Quality Score,0.238,BS,5.0
+Infosys,BS_Expected Rate of Return - Domestic,-0.364,BS,5.0
+Infosys,BS_Full-Time Employees,-0.602,BS,5.0
+Infosys,BS_Goodwill - Net,-0.581,BS,5.0
+Infosys,"BS_Goodwill, Net",-0.581,BS,5.0
+Infosys,BS_Income Taxes Payable,-0.635,BS,5.0
+Infosys,BS_Intangibles - Gross,-0.589,BS,5.0
+Infosys,"BS_Intangibles, Net",-0.417,BS,5.0
+Infosys,BS_LT Investments - Other,-0.23,BS,5.0
+Infosys,BS_Land/Improvements - Gross,-0.674,BS,5.0
+Infosys,BS_Long Term Investments,-0.233,BS,5.0
+Infosys,BS_Machinery/Equipment - Gross,-0.526,BS,5.0
+Infosys,BS_Net Debt Incl. Pref.Stock & Min.Interest,0.722,BS,5.0
+Infosys,BS_Note Receivable - Long Term,-0.47,BS,5.0
+Infosys,BS_Notes Receivable - Short Term,-0.359,BS,5.0
+Infosys,BS_Number of Common Shareholders,-0.545,BS,5.0
+Infosys,BS_Operating Lease Payments Due in Year 2,-0.594,BS,5.0
+Infosys,BS_Operating Lease Payments Due in Year 3,-0.594,BS,5.0
+Infosys,BS_Operating Lease Payments Due in Year 4,-0.594,BS,5.0
+Infosys,BS_Operating Lease Payments Due in Year 5,-0.594,BS,5.0
+Infosys,BS_Operating Lease Pymts. Due in 2-3 Years,-0.592,BS,5.0
+Infosys,BS_Operating Lease Pymts. Due in 4-5 Years,-0.592,BS,5.0
+Infosys,BS_Other Current Assets,0.497,BS,5.0
+Infosys,"BS_Other Current Assets, Total",0.055,BS,5.0
+Infosys,BS_Other Current Liabilities,-0.302,BS,5.0
+Infosys,"BS_Other Current liabilities, Total",-0.626,BS,5.0
+Infosys,BS_Other Equity,-0.484,BS,5.0
+Infosys,"BS_Other Equity, Total",-0.532,BS,5.0
+Infosys,"BS_Other Liabilities, Total",-0.014,BS,5.0
+Infosys,BS_Other Long Term Assets,0.41,BS,5.0
+Infosys,"BS_Other Long Term Assets, Total",-0.539,BS,5.0
+Infosys,BS_Other Long Term Liabilities,-0.164,BS,5.0
+Infosys,BS_Other Payables,-0.177,BS,5.0
+Infosys,BS_Other Property/Plant/Equipment - Gross,-0.309,BS,5.0
+Infosys,BS_Pension Benefits - Underfunded,0.508,BS,5.0
+Infosys,BS_Pension Obligation - Domestic,-0.51,BS,5.0
+Infosys,BS_Period End FX Rate (INR/USD),0.687,BS,5.0
+Infosys,BS_Plan Assets - Domestic,-0.514,BS,5.0
+Infosys,BS_Prepaid Benefits - Domestic,-0.202,BS,5.0
+Infosys,BS_Prepaid Expenses,-0.467,BS,5.0
+Infosys,"BS_Property/Plant/Equipment, Total - Gross",-0.608,BS,5.0
+Infosys,"BS_Property/Plant/Equipment, Total - Net",-0.635,BS,5.0
+Infosys,BS_Receivables - Other,0.072,BS,5.0
+Infosys,BS_Restricted Cash - Current,-0.32,BS,5.0
+Infosys,BS_Retained Earnings (Accumulated Deficit),-0.75,BS,5.0
+Infosys,BS_Shares Outs - Common Stock Primary Issue,-0.241,BS,5.0
+Infosys,BS_Short Term Investments,-0.003,BS,5.0
+Infosys,"BS_Tangible Book Value, Common Equity",-0.774,BS,5.0
+Infosys,BS_Total Assets,-0.708,BS,5.0
+Infosys,BS_Total Common Shares Outstanding,-0.241,BS,5.0
+Infosys,BS_Total Current Assets,-0.77,BS,5.0
+Infosys,BS_Total Current Assets less Inventory,-0.77,BS,5.0
+Infosys,BS_Total Current Liabilities,-0.541,BS,5.0
+Infosys,BS_Total Equity,-0.763,BS,5.0
+Infosys,BS_Total Equity & Minority Interest,-0.762,BS,5.0
+Infosys,BS_Total Liabilities,-0.479,BS,5.0
+Infosys,BS_Total Liabilities & Shareholders' Equity,-0.708,BS,5.0
+Infosys,"BS_Total Operating Leases, Supplemental",-0.557,BS,5.0
+Infosys,BS_Total Plan Assets,-0.514,BS,5.0
+Infosys,BS_Total Plan Obligations,-0.51,BS,5.0
+Infosys,"BS_Total Receivables, Net",-0.589,BS,5.0
+Infosys,CF_Accounts Payable,0.046,CF,5.0
+Infosys,CF_Accounts Receivable,0.208,CF,5.0
+Infosys,CF_Acquisition of Business,0.151,CF,5.0
+Infosys,CF_Avg. FX Rate (INR/USD),0.651,CF,5.0
+Infosys,CF_Capital Expenditures,0.272,CF,5.0
+Infosys,CF_Cash Dividends Paid - Common,0.423,CF,5.0
+Infosys,CF_Cash Taxes Paid,-0.501,CF,5.0
+Infosys,CF_Cash from Financing Activities,0.342,CF,5.0
+Infosys,CF_Cash from Investing Activities,0.226,CF,5.0
+Infosys,CF_Cash from Operating Activities,-0.486,CF,5.0
+Infosys,CF_Changes in Working Capital,0.46,CF,5.0
+Infosys,CF_Depreciation,-0.403,CF,5.0
+Infosys,CF_Depreciation/Depletion,-0.403,CF,5.0
+Infosys,CF_Earnings Quality Score,0.238,CF,5.0
+Infosys,CF_Financing Cash Flow Items,-0.43,CF,5.0
+Infosys,CF_Foreign Exchange Effects,-0.062,CF,5.0
+Infosys,CF_Free Cash Flow,-0.497,CF,5.0
+Infosys,"CF_Investment, Net",-0.295,CF,5.0
+Infosys,"CF_Issuance (Retirement) of Stock, Net",0.212,CF,5.0
+Infosys,CF_Net Cash - Beginning Balance,-0.756,CF,5.0
+Infosys,CF_Net Cash - Ending Balance,-0.727,CF,5.0
+Infosys,CF_Net Changes in Working Capital,0.093,CF,5.0
+Infosys,CF_Net Income/Starting Line,-0.459,CF,5.0
+Infosys,CF_Non-Cash Items,-0.544,CF,5.0
+Infosys,CF_Options Exercised,0.539,CF,5.0
+Infosys,CF_Other Financing Cash Flow,-0.43,CF,5.0
+Infosys,CF_Other Investing Cash Flow,-0.017,CF,5.0
+Infosys,"CF_Other Investing Cash Flow Items, Total",0.172,CF,5.0
+Infosys,CF_Other Liabilities,-0.264,CF,5.0
+Infosys,CF_Other Non-Cash Items,-0.54,CF,5.0
+Infosys,CF_Other Operating Cash Flow,0.5,CF,5.0
+Infosys,CF_Prepaid Expenses,0.17,CF,5.0
+Infosys,CF_Purchase of Fixed Assets,0.27,CF,5.0
+Infosys,CF_Purchase of Investments,0.447,CF,5.0
+Infosys,CF_Sale/Maturity of Investment,-0.449,CF,5.0
+Infosys,CF_Total Cash Dividends Paid,0.423,CF,5.0
+Infosys,CF_Unusual Items,-0.275,CF,5.0
+Infosys,"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.1",-0.636,,
+Infosys,"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.2",-0.705,,
+Infosys,"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.3",-0.636,,
+Infosys,EBIT(천원),-0.676,수익성,1.0
+Infosys,EBITDA2(천원),-0.57,수익성,1.0
+Infosys,EBITDA2마진율(비율),0.19,수익성,1.0
+Infosys,EBITDA2증가율(YoY)(비율),0.233,성장성,1.0
+Infosys,"EPS(지배, Adj.)(원/주)",0.312,수익성,2.0
+Infosys,EPS증가율(YoY)(비율),-0.326,성장성,2.0
+Infosys,Employment Number,-0.706,ET,2.0
+Infosys,"FS_Accounts Receivable Turnover, TTM",0.015,FS,5.0
+Infosys,"FS_Asset Turnover, TTM",0.415,FS,5.0
+Infosys,"FS_Average Net Trade Cycle Days, TTM",0.142,FS,5.0
+Infosys,"FS_Average Receivables Collection Days, TTM",0.016,FS,5.0
+Infosys,FS_CAPEX,-0.286,FS,5.0
+Infosys,FS_Cash & Cash Equivalents,-0.55,FS,5.0
+Infosys,FS_Cash & Short-Term Investments,-0.789,FS,5.0
+Infosys,FS_Common Equity - Total,-0.764,FS,5.0
+Infosys,FS_Common Shares - Outstanding - Total,-0.667,FS,5.0
+Infosys,FS_Current Ratio,-0.151,FS,5.0
+Infosys,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",-0.569,FS,5.0
+Infosys,FS_Dividend Coverage - %,0.426,FS,5.0
+Infosys,FS_Dividend Payout Ratio - %,0.032,FS,5.0
+Infosys,"FS_Dividend Yield - Common Stock - Net - Issue Specific - %, TTM",-0.705,FS,5.0
+Infosys,FS_EBITDA Margin - %,0.19,FS,5.0
+Infosys,FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,0.312,FS,5.0
+Infosys,FS_Earnings Retention Rate,-0.032,FS,5.0
+Infosys,"FS_Earnings Retention Rate, TTM",0.046,FS,5.0
+Infosys,"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",-0.57,FS,5.0
+Infosys,FS_Free Cash Flow Net of Dividends,-0.285,FS,5.0
+Infosys,"FS_Free Cash Flow Yield - %, TTM",0.354,FS,5.0
+Infosys,FS_Gross Profit - Industrials/Property - Total,-0.626,FS,5.0
+Infosys,FS_Gross Profit Margin - %,0.289,FS,5.0
+Infosys,FS_Income Tax Rate - %,-0.65,FS,5.0
+Infosys,FS_Income before Discontinued Operations & Extraordinary Items,-0.7,FS,5.0
+Infosys,FS_Income before Tax Margin - %,0.085,FS,5.0
+Infosys,"FS_Income before Tax Margin - %, TTM",0.048,FS,5.0
+Infosys,FS_Market Capitalization,-0.32,FS,5.0
+Infosys,FS_Net Cash Flow from Operating Activities,-0.621,FS,5.0
+Infosys,FS_Net Change in Cash - Total,0.074,FS,5.0
+Infosys,FS_Net Margin - %,0.448,FS,5.0
+Infosys,FS_Operating Margin - %,0.126,FS,5.0
+Infosys,FS_Operating Profit before Non-Recurring Income/Expense,-0.553,FS,5.0
+Infosys,"FS_Pretax ROA - %, TTM",0.685,FS,5.0
+Infosys,FS_ROA,0.737,FS,5.0
+Infosys,FS_ROE,0.785,FS,5.0
+Infosys,FS_ROIC,0.777,FS,5.0
+Infosys,"FS_Reinvestment Rate - %, TTM",0.444,FS,5.0
+Infosys,FS_Revenue from Business Activities - Total,-0.64,FS,5.0
+Infosys,FS_Shares used to calculate Diluted EPS - Total,-0.654,FS,5.0
+Infosys,"FS_Tax Complement, TTM",0.693,FS,5.0
+Infosys,FS_Total Assets,-0.709,FS,5.0
+Infosys,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",-0.023,FS,5.0
+Infosys,FS_Working Capital to Total Assets,-0.283,FS,5.0
+Infosys,Free Cash Flow2(천원),-0.497,수익성,0.0
+Infosys,Gross Investment (GI),-0.595,성장성,2.0
+Infosys,"IS_Advertising Expense, Supplemental",-0.37,IS,5.0
+Infosys,"IS_Amort of Intangibles, Supplemental",0.026,IS,5.0
+Infosys,IS_Avg. FX Rate (INR/USD),0.677,IS,5.0
+Infosys,IS_Basic EPS Excluding Extraordinary Items,-0.662,IS,5.0
+Infosys,IS_Basic EPS Including Extraordinary Items,-0.662,IS,5.0
+Infosys,IS_Basic Normalized EPS,-0.667,IS,5.0
+Infosys,IS_Basic Weighted Average Shares,-0.258,IS,5.0
+Infosys,IS_Compensation Rate - Domestic,-0.733,IS,5.0
+Infosys,IS_Cost of Revenue,-0.61,IS,5.0
+Infosys,"IS_Cost of Revenue, Total",-0.61,IS,5.0
+Infosys,IS_Current Tax - Domestic,-0.584,IS,5.0
+Infosys,IS_Current Tax - Foreign,-0.21,IS,5.0
+Infosys,IS_Current Tax - Total,-0.698,IS,5.0
+Infosys,IS_Deferred Tax - Domestic,0.076,IS,5.0
+Infosys,IS_Deferred Tax - Foreign,-0.044,IS,5.0
+Infosys,IS_Deferred Tax - Total,0.075,IS,5.0
+Infosys,IS_Defined Contribution Expense - Domestic,-0.744,IS,5.0
+Infosys,"IS_Depreciation, Supplemental",-0.579,IS,5.0
+Infosys,IS_Diluted EPS Excluding ExtraOrd Items,-0.67,IS,5.0
+Infosys,IS_Diluted EPS Including ExtraOrd Items,-0.67,IS,5.0
+Infosys,IS_Diluted Net Income,-0.703,IS,5.0
+Infosys,IS_Diluted Normalized EPS,-0.669,IS,5.0
+Infosys,IS_Diluted Weighted Average Shares,-0.032,IS,5.0
+Infosys,IS_Discount Rate - Domestic,-0.789,IS,5.0
+Infosys,IS_Domestic Pension Plan Expense,-0.172,IS,5.0
+Infosys,IS_Earnings Quality Score,0.238,IS,5.0
+Infosys,IS_Expected Rate of Return - Domestic,-0.562,IS,5.0
+Infosys,IS_Expected Return on Assets - Domestic,-0.303,IS,5.0
+Infosys,IS_Gross Dividends - Common Stock,-0.208,IS,5.0
+Infosys,IS_Gross Profit,-0.675,IS,5.0
+Infosys,IS_Income Available to Com Excl ExtraOrd,-0.703,IS,5.0
+Infosys,IS_Income Available to Com Incl ExtraOrd,-0.703,IS,5.0
+Infosys,IS_Income Tax - Total,-0.669,IS,5.0
+Infosys,IS_Interest Cost - Domestic,0.364,IS,5.0
+Infosys,"IS_Interest Inc.(Exp.),Net-Non-Op., Total",-0.551,IS,5.0
+Infosys,IS_Interest Income - Non-Operating,-0.749,IS,5.0
+Infosys,IS_Interest/Invest Income - Non-Operating,-0.558,IS,5.0
+Infosys,IS_Investment Income - Non-Operating,-0.36,IS,5.0
+Infosys,IS_Labor & Related Expense,-0.494,IS,5.0
+Infosys,IS_Labor & Related Expense Suppl.,-0.505,IS,5.0
+Infosys,IS_Net Income,-0.703,IS,5.0
+Infosys,IS_Net Income After Taxes,-0.703,IS,5.0
+Infosys,IS_Net Income Before Extra. Items,-0.703,IS,5.0
+Infosys,IS_Net Income Before Taxes,-0.717,IS,5.0
+Infosys,IS_Net Sales,-0.633,IS,5.0
+Infosys,IS_Normalized EBIT,-0.676,IS,5.0
+Infosys,IS_Normalized EBITDA,-0.668,IS,5.0
+Infosys,IS_Normalized Inc. Avail to Com.,-0.706,IS,5.0
+Infosys,IS_Normalized Income After Taxes,-0.706,IS,5.0
+Infosys,IS_Normalized Income Before Taxes,-0.718,IS,5.0
+Infosys,IS_Operating Income,-0.673,IS,5.0
+Infosys,IS_Other Non-Operating Income (Expense),-0.242,IS,5.0
+Infosys,"IS_Other Pension, Net - Domestic",-0.598,IS,5.0
+Infosys,IS_Other Tax,-0.74,IS,5.0
+Infosys,"IS_Other, Net",-0.242,IS,5.0
+Infosys,IS_Provision for Income Taxes,-0.685,IS,5.0
+Infosys,"IS_Rental Expense, Supplemental",-0.49,IS,5.0
+Infosys,"IS_Research & Development Exp, Supplemental",-0.743,IS,5.0
+Infosys,IS_Revenue,-0.633,IS,5.0
+Infosys,"IS_Selling/General/Admin. Expenses, Total",-0.68,IS,5.0
+Infosys,IS_Selling/General/Administrative Expense,-0.6,IS,5.0
+Infosys,IS_Service Cost - Domestic,-0.223,IS,5.0
+Infosys,IS_Total Operating Expense,-0.618,IS,5.0
+Infosys,IS_Total Pension Expense,-0.72,IS,5.0
+Infosys,IS_Total Plan Expected Return,-0.303,IS,5.0
+Infosys,IS_Total Plan Interest Cost,0.364,IS,5.0
+Infosys,IS_Total Plan Other Expense,-0.598,IS,5.0
+Infosys,IS_Total Plan Service Cost,-0.223,IS,5.0
+Infosys,IS_Total Revenue,-0.633,IS,5.0
+Infosys,Opex Margin,0.226,수익성,0.0
+Infosys,ROA(비율),0.737,수익성,1.0
+Infosys,ROE(지배)(비율),0.785,수익성,1.0
+Infosys,SG&A,-0.68,수익성,2.0
+Infosys,단기투자자산,-0.753,안정성,1.0
+Infosys,당기순이익(천원),-0.703,수익성,1.0
+Infosys,매입채무회전율,0.319,활동성,2.0
+Infosys,매출액(천원),-0.633,성장성,0.0
+Infosys,매출액이익률(비율),0.289,수익성,0.0
+Infosys,매출원가(천원),-0.61,성장성,2.0
+Infosys,매출채권회전율,-0.005,활동성,2.0
+Infosys,무형자산감상비 누계,0.555,안정성,1.0
+Infosys,부채비율(비율),-0.059,안정성,0.0
+Infosys,부채총계(천원),-0.479,안정성,2.0
+Infosys,비유동비율(천원),0.229,안정성,2.0
+Infosys,비유동자산(천원),-0.543,안정성,2.0
+Infosys,순부채(천원),0.722,안정성,2.0
+Infosys,순이익률(비율),0.448,수익성,2.0
+Infosys,순이익증가율(YoY)(비율),0.827,성장성,1.0
+Infosys,영업이익(천원),-0.673,수익성,1.0
+Infosys,영업이익률(비율),0.126,수익성,2.0
+Infosys,영업이익증가율(YoY)(연도),0.853,성장성,1.0
+Infosys,운전자본증감(천원),0.46,안정성,2.0
+Infosys,유동비율(비율),-0.151,안정성,2.0
+Infosys,유동자산(천원),-0.77,안정성,2.0
+Infosys,유형자산감상비 누계,0.571,안정성,1.0
+Infosys,이익잉여금(천원),-0.75,수익성,2.0
+Infosys,이자보상율,0.231,안정성,2.0
+Infosys,인당매출s,0.44,성장성,0.0
+Infosys,인당순이익s,0.735,수익성,2.0
+Infosys,인당영업이익s,0.733,수익성,1.0
+Infosys,자기자본비율,0.065,안정성,2.0
+Infosys,자본금(천원),-0.446,안정성,2.0
+Infosys,자산총계(천원),-0.708,안정성,2.0
+Infosys,재고자산회전율(비율),0.604,활동성,2.0
+Infosys,총자산회전율(비율),0.415,활동성,0.0
+Infosys,투자비 대비 매출 (Rev/GI)s,-0.127,성장성,0.0
+Infosys,현금배당성향(%),-0.031,수익성,1.0
+Infosys,매출총이익(천원),-0.675,수익성,0.0
+Infosys,무형자산회전율s,-0.315,활동성,0.0
+Infosys,ROGI(%),0.134,수익성,0.0
+Infosys,CAPEX(천원),-0.286,성장성,1.0

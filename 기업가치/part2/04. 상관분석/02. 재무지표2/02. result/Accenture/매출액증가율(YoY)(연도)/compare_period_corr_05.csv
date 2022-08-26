@@ -1,0 +1,3 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Accenture,CF_Cash Interest Paid,CF,5,0.514,
+Accenture,CF_Accounts Receivable,CF,5,-0.675,-0.617

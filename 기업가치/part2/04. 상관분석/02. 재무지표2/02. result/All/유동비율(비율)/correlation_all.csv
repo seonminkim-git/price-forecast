@@ -1,0 +1,372 @@
+﻿variable,group,importance,Accenture,Infosys,TCS,Cognizant
+"BPS(지배, Adj.)(원/주)",안정성,2.0,-0.465,-0.318,-0.139,0.62
+BPS증가율(YoY)(비율),성장성,2.0,-0.313,-0.32,-0.134,0.125
+BS_Accounts Payable,BS,5.0,-0.393,-0.587,0.511,-0.861
+"BS_Accounts Receivable - Trade, Net",BS,5.0,-0.283,-0.407,0.625,-0.859
+BS_Accrued Expenses,BS,5.0,-0.176,-0.556,0.382,-0.894
+"BS_Accumulated Depreciation, Total",BS,5.0,0.202,0.413,-0.579,0.812
+BS_Additional Paid-In Capital,BS,5.0,-0.196,0.85,-0.551,0.428
+BS_Cash & Equivalents,BS,5.0,0.258,0.355,0.581,-0.676
+BS_Cash and Short Term Investments,BS,5.0,0.252,0.253,0.673,-0.593
+BS_Current Port. of LT Debt/Capital Leases,BS,5.0,-0.521,,0.072,
+BS_Customer Advances,BS,5.0,-0.194,-0.487,0.308,-0.826
+BS_Defered Income Tax - Long Term Asset,BS,5.0,-0.224,-0.307,0.705,-0.787
+BS_Deferred Charges,BS,5.0,-0.153,,-0.422,
+BS_Deferred Income Tax,BS,5.0,-0.014,-0.583,0.816,-0.613
+BS_Deferred Income Tax - Current Asset,BS,5.0,-0.019,,,-0.807
+BS_Deferred Income Tax - Current Liability,BS,5.0,-0.221,,,
+BS_Deferred Income Tax - LT Liability,BS,5.0,-0.014,-0.583,0.816,-0.613
+BS_Deferred Revenue - Current,BS,5.0,-0.194,-0.493,0.308,-0.826
+BS_Deferred Revenue - Long Term,BS,5.0,-0.017,,,
+BS_Full-Time Employees,BS,5.0,-0.322,-0.398,0.596,-0.872
+BS_Goodwill - Net,BS,5.0,-0.299,-0.403,-0.502,-0.871
+"BS_Goodwill, Net",BS,5.0,-0.299,-0.403,-0.538,-0.871
+BS_Income Taxes Payable,BS,5.0,-0.447,-0.26,0.108,-0.481
+BS_LT Investments - Other,BS,5.0,-0.252,-0.609,-0.522,
+BS_Long Term Debt,BS,5.0,-0.305,,,
+BS_Long Term Investments,BS,5.0,-0.295,-0.61,-0.522,-0.637
+BS_Minority Interest,BS,5.0,-0.053,,-0.241,
+BS_Minority Interest - Non Redeemable,BS,5.0,-0.053,,-0.241,
+BS_Net Debt Incl. Pref.Stock & Min.Interest,BS,5.0,-0.247,-0.339,-0.736,0.444
+BS_Note Receivable - Long Term,BS,5.0,-0.062,-0.571,0.361,
+BS_Operating Lease Payments Due in Year 2,BS,5.0,-0.303,-0.449,,-0.851
+BS_Operating Lease Payments Due in Year 3,BS,5.0,-0.313,-0.449,,-0.848
+BS_Operating Lease Payments Due in Year 4,BS,5.0,-0.227,-0.449,,-0.83
+BS_Operating Lease Payments Due in Year 5,BS,5.0,-0.241,-0.449,,-0.827
+BS_Operating Lease Pymts. Due in 2-3 Years,BS,5.0,-0.308,-0.45,,-0.85
+BS_Operating Lease Pymts. Due in 4-5 Years,BS,5.0,-0.233,-0.45,,-0.832
+BS_Other Comprehensive Income,BS,5.0,-0.576,,0.512,0.057
+BS_Other Current Assets,BS,5.0,-0.266,-0.127,0.122,-0.81
+"BS_Other Current Assets, Total",BS,5.0,0.101,-0.152,0.131,-0.77
+"BS_Other Current liabilities, Total",BS,5.0,-0.327,-0.369,-0.152,-0.845
+BS_Other Equity,BS,5.0,-0.123,-0.494,,
+"BS_Other Equity, Total",BS,5.0,0.146,-0.44,0.078,0.121
+"BS_Other Liabilities, Total",BS,5.0,0.003,-0.464,0.522,-0.826
+BS_Other Long Term Assets,BS,5.0,0.105,-0.004,-0.615,-0.846
+"BS_Other Long Term Assets, Total",BS,5.0,-0.162,-0.302,0.494,-0.84
+BS_Other Long Term Liabilities,BS,5.0,0.065,-0.511,0.612,-0.826
+BS_Other Property/Plant/Equipment - Gross,BS,5.0,-0.161,-0.536,0.241,-0.781
+BS_Pension Benefits - Underfunded,BS,5.0,-0.167,-0.042,0.092,
+"BS_Property/Plant/Equipment, Total - Gross",BS,5.0,-0.265,-0.384,0.418,-0.825
+"BS_Property/Plant/Equipment, Total - Net",BS,5.0,-0.184,-0.356,0.466,-0.891
+BS_Retained Earnings (Accumulated Deficit),BS,5.0,-0.031,-0.159,0.776,-0.835
+BS_Shares Outs - Common Stock Primary Issue,BS,5.0,0.082,0.774,-0.2,0.09
+BS_Shares Outstanding - Common Issue 2,BS,5.0,0.057,,,
+BS_Short Term Investments,BS,5.0,-0.184,-0.357,0.633,-0.302
+"BS_Tangible Book Value, Common Equity",BS,5.0,0.002,-0.077,0.775,-0.667
+BS_Total Assets,BS,5.0,-0.184,-0.253,0.628,-0.86
+BS_Total Common Shares Outstanding,BS,5.0,0.105,0.774,-0.2,0.09
+BS_Total Current Assets,BS,5.0,-0.049,-0.072,0.638,-0.754
+BS_Total Current Assets less Inventory,BS,5.0,-0.049,-0.072,0.638,-0.754
+BS_Total Current Liabilities,BS,5.0,-0.255,-0.501,0.173,-0.893
+BS_Total Debt,BS,5.0,-0.258,,0.028,
+BS_Total Equity,BS,5.0,-0.196,-0.117,0.771,-0.834
+BS_Total Equity & Minority Interest,BS,5.0,-0.2,-0.12,0.769,-0.834
+BS_Total Liabilities,BS,5.0,-0.167,-0.526,0.192,-0.877
+BS_Total Liabilities & Shareholders' Equity,BS,5.0,-0.184,-0.253,0.628,-0.86
+BS_Total Long Term Debt,BS,5.0,-0.305,,0.014,
+"BS_Total Operating Leases, Supplemental",BS,5.0,-0.232,-0.484,,-0.859
+"BS_Total Receivables, Net",BS,5.0,-0.283,-0.405,0.581,-0.859
+BS_Treas Shares - Common Stock Prmry Issue,BS,5.0,0.305,,,
+BS_Treasury Stock - Common,BS,5.0,-0.148,,,
+CF_Accounts Payable,CF,5.0,-0.084,-0.006,,-0.25
+CF_Accounts Receivable,CF,5.0,0.149,0.209,,0.249
+CF_Accrued Expenses,CF,5.0,-0.139,,,
+CF_Acquisition of Business,CF,5.0,0.308,0.091,0.118,0.566
+CF_Capital Expenditures,CF,5.0,0.181,0.036,-0.079,0.693
+CF_Cash Dividends Paid - Common,CF,5.0,0.137,0.357,-0.397,
+CF_Cash Interest Paid,CF,5.0,-0.479,,0.073,
+CF_Cash Taxes Paid,CF,5.0,-0.193,-0.084,0.256,-0.827
+CF_Cash from Financing Activities,CF,5.0,0.289,0.384,-0.513,0.466
+CF_Cash from Investing Activities,CF,5.0,0.218,-0.044,0.131,0.264
+CF_Cash from Operating Activities,CF,5.0,-0.13,-0.16,0.427,-0.676
+CF_Changes in Working Capital,CF,5.0,-0.05,0.035,-0.205,0.221
+"CF_Common Stock, Net",CF,5.0,0.342,,-0.358,0.649
+CF_Deferred Taxes,CF,5.0,0.12,,,-0.064
+CF_Depreciation,CF,5.0,-0.153,-0.23,,-0.767
+CF_Depreciation/Depletion,CF,5.0,-0.153,-0.23,,-0.767
+CF_Financing Cash Flow Items,CF,5.0,0.414,-0.483,-0.054,0.18
+CF_Foreign Exchange Effects,CF,5.0,-0.028,0.331,-0.06,0.305
+CF_Free Cash Flow,CF,5.0,-0.125,-0.173,0.445,-0.663
+"CF_Issuance (Retirement) of Debt, Net",CF,5.0,0.429,,-0.067,
+"CF_Issuance (Retirement) of Stock, Net",CF,5.0,0.342,0.354,-0.358,0.634
+"CF_Long Term Debt, Net",CF,5.0,0.528,,-0.028,
+CF_Net Cash - Beginning Balance,CF,5.0,0.121,0.221,0.524,-0.745
+CF_Net Cash - Ending Balance,CF,5.0,0.258,0.346,0.364,-0.677
+CF_Net Changes in Working Capital,CF,5.0,-0.05,-0.126,,0.221
+CF_Net Income/Starting Line,CF,5.0,-0.059,-0.115,,-0.724
+CF_Non-Cash Items,CF,5.0,-0.286,-0.098,,-0.651
+CF_Other Assets,CF,5.0,0.203,,,-0.298
+CF_Other Financing Cash Flow,CF,5.0,0.414,-0.483,-0.054,0.18
+"CF_Other Investing Cash Flow Items, Total",CF,5.0,0.21,-0.053,0.142,0.17
+CF_Other Liabilities,CF,5.0,-0.166,-0.348,,0.268
+CF_Other Non-Cash Items,CF,5.0,-0.2,-0.078,,-0.652
+CF_Purchase of Fixed Assets,CF,5.0,0.181,0.05,-0.077,0.693
+CF_Purchase of Investments,CF,5.0,0.061,0.303,-0.725,0.395
+CF_Repurchase/Retirement of Common,CF,5.0,0.19,,,0.649
+CF_Sale of Fixed Assets,CF,5.0,-0.276,,0.282,
+CF_Sale/Issuance of Common,CF,5.0,0.132,,,
+CF_Sale/Maturity of Investment,CF,5.0,-0.33,-0.301,0.429,-0.472
+"CF_Short Term Debt, Net",CF,5.0,-0.017,,0.346,
+CF_Taxes Payable,CF,5.0,-0.235,,,
+CF_Total Cash Dividends Paid,CF,5.0,0.137,0.357,-0.397,
+CF_Unusual Items,CF,5.0,-0.155,-0.286,,
+EBIT(천원),수익성,1.0,-0.194,-0.223,0.58,-0.822
+EBITDA2(천원),수익성,1.0,-0.237,-0.165,0.567,-0.835
+EBITDA2마진율(비율),수익성,1.0,-0.084,0.224,-0.182,0.433
+EBITDA2증가율(YoY)(비율),성장성,1.0,-0.19,-0.045,-0.373,0.723
+"EPS(지배, Adj.)(원/주)",수익성,2.0,-0.151,-0.248,0.596,-0.799
+EPS증가율(YoY)(비율),성장성,2.0,0.062,0.096,-0.191,0.324
+Employment Number,ET,2.0,-0.236,-0.26,0.595,-0.842
+"FS_Accounts Receivable Turnover, TTM",FS,5.0,0.434,0.435,0.524,0.579
+"FS_Asset Turnover, TTM",FS,5.0,0.003,-0.076,-0.239,0.785
+"FS_Average Net Trade Cycle Days, TTM",FS,5.0,-0.17,-0.307,-0.447,-0.601
+"FS_Average Receivables Collection Days, TTM",FS,5.0,-0.428,-0.503,-0.53,-0.611
+FS_CAPEX,FS,5.0,-0.316,-0.02,-0.103,-0.75
+FS_Cash & Cash Equivalents,FS,5.0,0.258,0.412,0.435,-0.676
+FS_Cash & Short-Term Investments,FS,5.0,0.252,0.285,0.673,-0.593
+FS_Common Equity - Total,FS,5.0,-0.196,-0.115,0.771,-0.834
+FS_Common Shares - Outstanding - Total,FS,5.0,0.106,0.396,0.383,-0.119
+FS_Current Ratio,FS,5.0,1.0,1.0,1.0,1.0
+FS_Debt - Total,FS,5.0,-0.26,,0.012,
+"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",FS,5.0,-0.211,-0.356,,-0.866
+FS_EBITDA Margin - %,FS,5.0,-0.084,0.224,-0.182,0.433
+FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,FS,5.0,-0.151,-0.248,0.596,-0.799
+"FS_Earnings Retention Rate, TTM",FS,5.0,0.145,0.075,-0.169,
+"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",FS,5.0,-0.237,-0.165,0.567,-0.835
+FS_Free Cash Flow Net of Dividends,FS,5.0,-0.05,0.008,0.232,-0.641
+"FS_Free Cash Flow Yield - %, TTM",FS,5.0,0.201,-0.186,0.2,-0.749
+FS_Gross Profit - Industrials/Property - Total,FS,5.0,-0.186,-0.188,0.603,-0.849
+FS_Gross Profit Margin - %,FS,5.0,0.446,0.264,0.458,0.762
+FS_Income Tax Rate - %,FS,5.0,-0.049,0.153,0.571,-0.434
+FS_Income before Discontinued Operations & Extraordinary Items,FS,5.0,-0.139,-0.179,0.622,-0.794
+FS_Income before Tax Margin - %,FS,5.0,0.19,0.582,0.189,0.788
+"FS_Income before Tax Margin - %, TTM",FS,5.0,0.096,0.546,0.34,0.837
+FS_Interest Coverage Ratio,FS,5.0,0.083,,0.082,
+FS_Market Capitalization,FS,5.0,-0.265,-0.295,0.371,-0.783
+FS_Net Cash Flow from Operating Activities,FS,5.0,-0.132,-0.246,0.609,-0.746
+FS_Net Change in Cash - Total,FS,5.0,0.21,0.236,-0.052,0.062
+FS_Net Margin - %,FS,5.0,0.173,0.361,-0.158,0.729
+FS_Operating Margin - %,FS,5.0,0.126,0.234,-0.106,0.481
+FS_Operating Profit before Non-Recurring Income/Expense,FS,5.0,-0.194,-0.143,0.58,-0.82
+"FS_Payables Turnover, TTM",FS,5.0,0.409,,-0.544,-0.308
+"FS_Pretax ROA - %, TTM",FS,5.0,0.099,0.288,0.051,0.865
+FS_ROA,FS,5.0,0.069,0.137,-0.242,0.851
+FS_ROE,FS,5.0,0.145,-0.13,-0.582,0.814
+FS_ROIC,FS,5.0,0.202,-0.068,-0.504,0.79
+"FS_Reinvestment Rate - %, TTM",FS,5.0,0.147,-0.022,-0.386,0.852
+FS_Revenue from Business Activities - Total,FS,5.0,-0.23,-0.317,0.604,-0.864
+FS_Shares used to calculate Diluted EPS - Total,FS,5.0,0.085,0.378,0.101,0.454
+"FS_Tax Complement, TTM",FS,5.0,-0.079,-0.104,-0.598,0.646
+FS_Total Assets,FS,5.0,-0.184,-0.252,0.628,-0.86
+"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",FS,5.0,0.159,-0.799,-0.73,-0.823
+FS_Total Debt Percentage of Total Assets,FS,5.0,-0.074,,-0.182,
+FS_Total Debt Percentage of Total Capital,FS,5.0,-0.123,,-0.207,
+FS_Total Debt Percentage of Total Equity,FS,5.0,-0.121,,-0.199,
+FS_Working Capital to Total Assets,FS,5.0,0.896,0.942,0.925,0.943
+Free Cash Flow2(천원),수익성,0.0,-0.125,-0.173,0.445,-0.663
+Gross Investment (GI),성장성,2.0,-0.326,-0.427,0.696,-0.87
+IS_Basic EPS Excluding Extraordinary Items,IS,5.0,-0.146,-0.23,0.605,-0.823
+IS_Basic EPS Including Extraordinary Items,IS,5.0,-0.143,-0.23,0.605,-0.801
+IS_Basic Normalized EPS,IS,5.0,-0.183,-0.238,0.61,-0.842
+IS_Basic Weighted Average Shares,IS,5.0,0.092,0.757,-0.183,0.032
+IS_Cost of Revenue,IS,5.0,-0.246,-0.361,-0.334,-0.866
+"IS_Cost of Revenue, Total",IS,5.0,-0.246,-0.361,-0.334,-0.866
+"IS_Depreciation, Supplemental",IS,5.0,-0.072,-0.299,0.392,-0.865
+IS_Diluted EPS Excluding ExtraOrd Items,IS,5.0,-0.159,-0.222,0.605,-0.823
+IS_Diluted EPS Including ExtraOrd Items,IS,5.0,-0.156,-0.222,0.605,-0.801
+IS_Diluted Net Income,IS,5.0,-0.147,-0.174,0.624,-0.771
+IS_Diluted Normalized EPS,IS,5.0,-0.194,-0.232,0.61,-0.842
+IS_Diluted Weighted Average Shares,IS,5.0,0.09,0.697,-0.183,0.454
+IS_Dilution Adjustment,IS,5.0,0.077,,,
+IS_Effect of Special Items on Income Taxes,IS,5.0,-0.081,,,0.304
+IS_Gross Profit,IS,5.0,-0.186,-0.248,0.602,-0.855
+IS_Income Available to Com Excl ExtraOrd,IS,5.0,-0.132,-0.173,0.624,-0.794
+IS_Income Available to Com Incl ExtraOrd,IS,5.0,-0.129,-0.174,0.624,-0.771
+IS_Interest Expense - Non-Operating,IS,5.0,0.178,,,
+"IS_Interest Expense, Net Non-Operating",IS,5.0,0.178,,,
+"IS_Interest Expense, Supplemental",IS,5.0,-0.178,,0.101,
+"IS_Interest Inc.(Exp.),Net-Non-Op., Total",IS,5.0,-0.179,0.312,0.755,-0.084
+IS_Interest Income - Non-Operating,IS,5.0,-0.469,0.32,0.671,-0.542
+IS_Interest/Invest Income - Non-Operating,IS,5.0,-0.198,0.283,0.739,-0.149
+IS_Investment Income - Non-Operating,IS,5.0,0.084,-0.017,0.609,0.095
+IS_Minority Interest,IS,5.0,-0.04,,0.296,
+"IS_Minority Interest, Supplemental",IS,5.0,-0.04,,0.232,
+IS_Net Income,IS,5.0,-0.129,-0.174,0.624,-0.771
+IS_Net Income After Taxes,IS,5.0,-0.138,-0.175,0.622,-0.797
+IS_Net Income Before Extra. Items,IS,5.0,-0.132,-0.173,0.624,-0.794
+IS_Net Income Before Taxes,IS,5.0,-0.157,-0.159,0.619,-0.807
+IS_Net Sales,IS,5.0,-0.227,-0.327,0.608,-0.864
+IS_Normalized EBIT,IS,5.0,-0.194,-0.223,0.58,-0.822
+IS_Normalized EBITDA,IS,5.0,-0.199,-0.239,0.567,-0.836
+IS_Normalized Inc. Avail to Com.,IS,5.0,-0.168,-0.18,0.629,-0.819
+IS_Normalized Income After Taxes,IS,5.0,-0.178,-0.182,0.627,-0.819
+IS_Normalized Income Before Taxes,IS,5.0,-0.193,-0.166,0.624,-0.819
+IS_Operating Income,IS,5.0,-0.157,-0.217,0.575,-0.813
+IS_Other Non-Operating Income (Expense),IS,5.0,0.145,-0.167,-0.018,0.027
+"IS_Other, Net",IS,5.0,0.145,-0.167,-0.606,0.027
+IS_Provision for Income Taxes,IS,5.0,-0.189,-0.111,0.607,-0.735
+IS_Revenue,IS,5.0,-0.227,-0.327,0.604,-0.864
+"IS_Selling/General/Admin. Expenses, Total",IS,5.0,-0.176,-0.268,0.604,-0.86
+IS_Selling/General/Administrative Expense,IS,5.0,-0.176,-0.081,-0.292,-0.865
+"IS_Stock-Based Compensation, Supplemental",IS,5.0,-0.148,,,-0.796
+IS_Total Operating Expense,IS,5.0,-0.24,-0.356,0.609,-0.87
+IS_Total Revenue,IS,5.0,-0.227,-0.327,0.604,-0.864
+IS_Unusual Expense (Income),IS,5.0,-0.115,,,
+Minority Interest - Total,ET,5.0,-0.053,,-0.24,
+Opex Margin,수익성,0.0,0.054,0.492,0.682,0.439
+ROA(비율),수익성,1.0,0.069,0.137,-0.242,0.851
+ROE(지배)(비율),수익성,1.0,0.145,-0.13,-0.582,0.814
+SG&A,수익성,2.0,-0.176,-0.268,0.604,-0.86
+단기투자자산,안정성,1.0,0.252,0.253,0.673,-0.593
+당기순이익(천원),수익성,1.0,-0.129,-0.174,0.624,-0.771
+매입채무회전율,활동성,2.0,0.535,0.44,-0.484,-0.235
+매출액(천원),성장성,0.0,-0.227,-0.327,0.604,-0.864
+매출액이익률(비율),수익성,0.0,0.446,0.264,0.458,0.762
+매출원가(천원),성장성,2.0,-0.246,-0.361,-0.334,-0.866
+매출채권회전율,활동성,2.0,-0.142,0.196,-0.349,-0.138
+부채비율(비율),안정성,0.0,-0.01,-0.798,-0.728,-0.832
+부채총계(천원),안정성,2.0,-0.167,-0.526,0.192,-0.877
+비유동비율(천원),안정성,2.0,-0.528,-0.861,-0.849,-0.875
+비유동자산(천원),안정성,2.0,-0.259,-0.491,0.46,-0.884
+순부채(천원),안정성,2.0,-0.247,-0.339,-0.736,0.444
+순이익률(비율),수익성,2.0,0.173,0.361,-0.158,0.729
+순이익증가율(YoY)(비율),성장성,1.0,0.085,-0.144,-0.304,0.11
+영업이익(천원),수익성,1.0,-0.157,-0.217,0.575,-0.813
+영업이익률(비율),수익성,2.0,0.126,0.234,-0.106,0.481
+영업이익증가율(YoY)(연도),성장성,1.0,0.0,-0.186,-0.355,0.649
+운전자본증감(천원),안정성,2.0,-0.05,0.035,-0.205,0.221
+유동자산(천원),안정성,2.0,-0.049,-0.072,0.638,-0.754
+유형자산감상비 누계,안정성,1.0,0.202,0.413,-0.579,0.812
+이익잉여금(천원),수익성,2.0,-0.031,-0.159,0.776,-0.835
+이자보상율,안정성,2.0,0.032,-0.09,-0.163,-0.029
+인당매출s,성장성,0.0,0.251,-0.715,0.026,-0.748
+인당순이익s,수익성,2.0,0.329,0.15,-0.007,0.241
+인당영업이익s,수익성,1.0,0.423,0.106,-0.004,-0.28
+자기자본비율,안정성,2.0,-0.111,0.832,0.768,0.845
+자산총계(천원),안정성,2.0,-0.184,-0.253,0.628,-0.86
+재고자산회전율(비율),활동성,2.0,-0.644,-0.612,-0.65,-0.69
+채무총계,안정성,1.0,-0.258,,0.028,
+총자산회전율(비율),활동성,0.0,0.003,-0.076,-0.239,0.785
+투자비 대비 매출 (Rev/GI)s,성장성,0.0,-0.253,0.629,0.4,0.406
+매출액증가율(YoY)(연도),성장성,0.0,-0.258,-0.151,-0.416,0.758
+매출총이익(천원),수익성,0.0,-0.186,-0.248,0.602,-0.855
+무형자산회전율s,활동성,0.0,0.374,0.644,0.423,0.467
+ROGI(%),수익성,0.0,0.067,0.659,0.278,0.504
+CAPEX(천원),성장성,1.0,-0.316,-0.02,-0.103,-0.75
+"BS_Accounts Receivable - Trade, Gross",BS,5.0,,-0.489,0.659,-0.858
+"BS_Accumulated Intangible Amort, Suppl.",BS,5.0,,-0.544,0.715,
+BS_Accumulated Intangible Amortization,BS,5.0,,0.495,-0.715,
+BS_Buildings - Gross,BS,5.0,,-0.249,0.732,
+BS_Common Stock,BS,5.0,,-0.536,0.135,-0.703
+"BS_Common Stock, Total",BS,5.0,,-0.536,0.135,-0.703
+BS_Compensation Rate - Domestic,BS,5.0,,0.225,,
+BS_Construction in Progress - Gross,BS,5.0,,0.088,-0.109,
+BS_Discount Rate - Domestic,BS,5.0,,0.381,,
+BS_Earnings Quality Score,BS,5.0,,0.035,,
+BS_Expected Rate of Return - Domestic,BS,5.0,,0.26,,
+BS_Intangibles - Gross,BS,5.0,,-0.462,0.144,
+"BS_Intangibles, Net",BS,5.0,,-0.545,-0.391,-0.828
+BS_Land/Improvements - Gross,BS,5.0,,-0.194,-0.467,
+BS_Machinery/Equipment - Gross,BS,5.0,,-0.488,0.498,
+BS_Notes Receivable - Short Term,BS,5.0,,-0.411,0.313,
+BS_Number of Common Shareholders,BS,5.0,,-0.056,-0.391,
+BS_Other Current Liabilities,BS,5.0,,-0.139,-0.04,-0.819
+BS_Other Payables,BS,5.0,,-0.071,-0.137,
+BS_Pension Obligation - Domestic,BS,5.0,,-0.544,,
+BS_Period End FX Rate (INR/USD),BS,5.0,,0.426,-0.633,
+BS_Plan Assets - Domestic,BS,5.0,,-0.541,,
+BS_Prepaid Benefits - Domestic,BS,5.0,,-0.424,,
+BS_Prepaid Expenses,BS,5.0,,-0.585,0.165,
+BS_Receivables - Other,BS,5.0,,0.151,0.112,
+BS_Restricted Cash - Current,BS,5.0,,0.03,0.383,
+BS_Total Plan Assets,BS,5.0,,-0.541,,
+BS_Total Plan Obligations,BS,5.0,,-0.544,,
+CF_Avg. FX Rate (INR/USD),CF,5.0,,0.451,-0.652,
+CF_Earnings Quality Score,CF,5.0,,0.035,,
+"CF_Investment, Net",CF,5.0,,0.254,0.369,
+CF_Options Exercised,CF,5.0,,-0.145,,-0.625
+CF_Other Investing Cash Flow,CF,5.0,,-0.181,0.161,
+CF_Other Operating Cash Flow,CF,5.0,,0.085,-0.155,
+CF_Prepaid Expenses,CF,5.0,,0.077,,
+"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.1",,,,-0.203,,
+"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.2",,,,-0.125,,
+"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.3",,,,-0.203,,
+FS_Dividend Coverage - %,FS,5.0,,0.222,-0.028,
+FS_Dividend Payout Ratio - %,FS,5.0,,-0.276,0.079,
+"FS_Dividend Yield - Common Stock - Net - Issue Specific - %, TTM",FS,5.0,,-0.125,0.371,
+FS_Earnings Retention Rate,FS,5.0,,0.276,-0.08,
+"IS_Advertising Expense, Supplemental",IS,5.0,,-0.6,,
+"IS_Amort of Intangibles, Supplemental",IS,5.0,,-0.752,-0.034,
+IS_Avg. FX Rate (INR/USD),IS,5.0,,0.437,-0.649,
+IS_Compensation Rate - Domestic,IS,5.0,,0.025,,
+IS_Current Tax - Domestic,IS,5.0,,-0.152,,
+IS_Current Tax - Foreign,IS,5.0,,-0.135,,
+IS_Current Tax - Total,IS,5.0,,-0.074,0.566,
+IS_Deferred Tax - Domestic,IS,5.0,,-0.309,,
+IS_Deferred Tax - Foreign,IS,5.0,,0.145,,
+IS_Deferred Tax - Total,IS,5.0,,-0.279,0.031,
+IS_Defined Contribution Expense - Domestic,IS,5.0,,-0.131,0.379,
+IS_Discount Rate - Domestic,IS,5.0,,0.197,,
+IS_Domestic Pension Plan Expense,IS,5.0,,0.408,,
+IS_Earnings Quality Score,IS,5.0,,0.035,,
+IS_Expected Rate of Return - Domestic,IS,5.0,,-0.007,,
+IS_Expected Return on Assets - Domestic,IS,5.0,,-0.614,,
+IS_Gross Dividends - Common Stock,IS,5.0,,-0.249,0.368,
+IS_Income Tax - Total,IS,5.0,,0.105,0.53,
+IS_Interest Cost - Domestic,IS,5.0,,0.531,,
+IS_Labor & Related Expense,IS,5.0,,-0.537,0.604,-0.805
+IS_Labor & Related Expense Suppl.,IS,5.0,,-0.577,0.604,
+"IS_Other Pension, Net - Domestic",IS,5.0,,-0.179,,
+IS_Other Tax,IS,5.0,,-0.066,-0.17,
+"IS_Rental Expense, Supplemental",IS,5.0,,0.189,0.659,
+"IS_Research & Development Exp, Supplemental",IS,5.0,,0.308,,
+IS_Service Cost - Domestic,IS,5.0,,0.508,,
+IS_Total Pension Expense,IS,5.0,,0.061,0.379,
+IS_Total Plan Expected Return,IS,5.0,,-0.614,,
+IS_Total Plan Interest Cost,IS,5.0,,0.531,,
+IS_Total Plan Other Expense,IS,5.0,,-0.179,,
+IS_Total Plan Service Cost,IS,5.0,,0.508,,
+무형자산감상비 누계,안정성,1.0,,0.495,-0.715,
+자본금(천원),안정성,2.0,,-0.536,0.135,-0.703
+현금배당성향(%),수익성,1.0,,-0.252,0.155,
+BS_Accumulated Goodwill Amortization,BS,5.0,,,-0.696,
+BS_Accumulated Goodwill Amortization Suppl.,BS,5.0,,,0.696,
+BS_Capital Lease Obligations,BS,5.0,,,0.068,
+BS_Cash,BS,5.0,,,0.611,
+BS_Dividends Payable,BS,5.0,,,-0.388,
+BS_Goodwill - Gross,BS,5.0,,,-0.366,
+BS_Intangibles - Net,BS,5.0,,,-0.638,-0.794
+BS_Inventories - Finished Goods,BS,5.0,,,-0.572,
+BS_Inventories - Raw Materials,BS,5.0,,,-0.194,
+BS_Redeemable Preferred Stock,BS,5.0,,,-0.681,
+"BS_Redeemable Preferred Stock, Total",BS,5.0,,,-0.681,
+BS_Shares Outstanding - Preferred Issue 1,BS,5.0,,,-0.659,
+BS_Total Inventory,BS,5.0,,,-0.326,
+BS_Total Preferred Shares Outstanding,BS,5.0,,,-0.659,
+BS_Translation Adjustment,BS,5.0,,,0.429,0.175
+CF_Long Term Debt Reduction,CF,5.0,,,-0.027,
+"CF_Preferred Stock, Net",CF,5.0,,,-0.554,
+CF_Total Debt Issued,CF,5.0,,,-0.671,
+CF_Total Debt Reduction,CF,5.0,,,0.672,
+"FS_Average Inventory Days, TTM",FS,5.0,,,0.394,
+"FS_Inventory Turnover, TTM",FS,5.0,,,-0.24,
+FS_Quick Ratio,FS,5.0,,,0.997,
+IS_Current Tax - Total.1,,,,,0.571,
+IS_DPS - Common Stock Primary Issue,IS,5.0,,,0.367,
+IS_Deferred Tax - Total.1,,,,,0.031,
+IS_Depreciation,IS,5.0,,,0.379,-0.879
+IS_Depreciation/Amortization,IS,5.0,,,0.367,-0.879
+IS_Gain (Loss) on Sale of Assets,IS,5.0,,,0.316,
+IS_Gross Revenue,IS,5.0,,,0.703,
+IS_Other Operating Expense,IS,5.0,,,0.613,
+"IS_Other Operating Expenses, Total",IS,5.0,,,0.612,
+"IS_Other, Net.1",,,,,-0.018,
+IS_Preferred Dividends,IS,5.0,,,-0.595,
+IS_Special DPS - Common Stock Primary Issue,IS,5.0,,,-0.159,
+IS_Total Adjustments to Net Income,IS,5.0,,,-0.595,
+무형자산,안정성,2.0,,,-0.638,-0.794
+BS_Other Property/Plant/Equipment - Net,BS,5.0,,,,-0.813
+"IS_Interest Exp.(Inc.),Net-Operating, Total",IS,5.0,,,,-0.745
+IS_Interest/Investment Income - Operating,IS,5.0,,,,-0.745
+IS_Investment Income - Operating,IS,5.0,,,,-0.745

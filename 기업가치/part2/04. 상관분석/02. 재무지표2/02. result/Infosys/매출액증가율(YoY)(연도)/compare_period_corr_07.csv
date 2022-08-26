@@ -1,0 +1,90 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Infosys,영업이익증가율(YoY)(연도),성장성,1.0,0.853,0.888
+Infosys,"BPS(지배, Adj.)(원/주)",안정성,2.0,0.843,0.868
+Infosys,순이익증가율(YoY)(비율),성장성,1.0,0.827,0.835
+Infosys,ROE(지배)(비율),수익성,1.0,0.785,0.787
+Infosys,FS_ROE,FS,5.0,0.785,0.787
+Infosys,FS_ROIC,FS,5.0,0.777,0.777
+Infosys,ROA(비율),수익성,1.0,0.737,0.745
+Infosys,FS_ROA,FS,5.0,0.737,0.745
+Infosys,인당순이익s,수익성,2.0,0.735,0.751
+Infosys,인당영업이익s,수익성,1.0,0.733,0.716
+Infosys,BS_Net Debt Incl. Pref.Stock & Min.Interest,BS,5.0,0.722,0.756
+Infosys,순부채(천원),안정성,2.0,0.722,0.756
+Infosys,IS_Net Income After Taxes,IS,5.0,-0.703,-0.796
+Infosys,IS_Income Available to Com Incl ExtraOrd,IS,5.0,-0.703,-0.795
+Infosys,IS_Net Income,IS,5.0,-0.703,-0.795
+Infosys,IS_Income Available to Com Excl ExtraOrd,IS,5.0,-0.703,-0.796
+Infosys,IS_Net Income Before Extra. Items,IS,5.0,-0.703,-0.796
+Infosys,IS_Diluted Net Income,IS,5.0,-0.703,-0.795
+Infosys,당기순이익(천원),수익성,1.0,-0.703,-0.795
+Infosys,"FS_Dividend Yield - Common Stock - Net - Issue Specific - %, TTM",FS,5.0,-0.705,-0.714
+Infosys,"Dividend Yield - Common Stock - Net - Issue Specific - %, TTM.2",,,-0.705,-0.714
+Infosys,Employment Number,ET,2.0,-0.706,-0.806
+Infosys,IS_Normalized Income After Taxes,IS,5.0,-0.706,-0.796
+Infosys,IS_Normalized Inc. Avail to Com.,IS,5.0,-0.706,-0.796
+Infosys,자산총계(천원),안정성,2.0,-0.708,-0.78
+Infosys,BS_Total Assets,BS,5.0,-0.708,-0.78
+Infosys,BS_Total Liabilities & Shareholders' Equity,BS,5.0,-0.708,-0.78
+Infosys,FS_Total Assets,FS,5.0,-0.709,-0.781
+Infosys,IS_Net Income Before Taxes,IS,5.0,-0.717,-0.811
+Infosys,IS_Normalized Income Before Taxes,IS,5.0,-0.718,-0.81
+Infosys,IS_Total Pension Expense,IS,5.0,-0.72,-0.731
+Infosys,CF_Net Cash - Ending Balance,CF,5.0,-0.727,-0.738
+Infosys,IS_Compensation Rate - Domestic,IS,5.0,-0.733,-0.744
+Infosys,IS_Other Tax,IS,5.0,-0.74,-0.759
+Infosys,"IS_Research & Development Exp, Supplemental",IS,5.0,-0.743,-0.75
+Infosys,IS_Defined Contribution Expense - Domestic,IS,5.0,-0.744,-0.764
+Infosys,IS_Interest Income - Non-Operating,IS,5.0,-0.749,-0.782
+Infosys,BS_Retained Earnings (Accumulated Deficit),BS,5.0,-0.75,-0.782
+Infosys,이익잉여금(천원),수익성,2.0,-0.75,-0.782
+Infosys,단기투자자산,안정성,1.0,-0.753,-0.768
+Infosys,BS_Cash and Short Term Investments,BS,5.0,-0.753,-0.768
+Infosys,CF_Net Cash - Beginning Balance,CF,5.0,-0.756,-0.793
+Infosys,BS_Total Equity & Minority Interest,BS,5.0,-0.762,-0.795
+Infosys,BS_Total Equity,BS,5.0,-0.763,-0.795
+Infosys,FS_Common Equity - Total,FS,5.0,-0.764,-0.796
+Infosys,BS_Total Current Assets less Inventory,BS,5.0,-0.77,-0.805
+Infosys,BS_Total Current Assets,BS,5.0,-0.77,-0.805
+Infosys,유동자산(천원),안정성,2.0,-0.77,-0.805
+Infosys,"BS_Tangible Book Value, Common Equity",BS,5.0,-0.774,-0.799
+Infosys,FS_Cash & Short-Term Investments,FS,5.0,-0.789,-0.805
+Infosys,IS_Discount Rate - Domestic,IS,5.0,-0.789,-0.799
+Infosys,BS_Buildings - Gross,BS,5.0,,-0.787
+Infosys,BS_Compensation Rate - Domestic,BS,5.0,,-0.761
+Infosys,BS_Full-Time Employees,BS,5.0,,-0.722
+Infosys,"BS_Other Current liabilities, Total",BS,5.0,,-0.752
+Infosys,BS_Period End FX Rate (INR/USD),BS,5.0,,0.728
+Infosys,"BS_Property/Plant/Equipment, Total - Gross",BS,5.0,,-0.709
+Infosys,"BS_Property/Plant/Equipment, Total - Net",BS,5.0,,-0.721
+Infosys,EBIT(천원),수익성,1.0,,-0.8
+Infosys,FS_Income before Discontinued Operations & Extraordinary Items,FS,5.0,,-0.793
+Infosys,FS_Net Cash Flow from Operating Activities,FS,5.0,,-0.725
+Infosys,FS_Revenue from Business Activities - Total,FS,5.0,,-0.757
+Infosys,"FS_Tax Complement, TTM",FS,5.0,,0.71
+Infosys,IS_Avg. FX Rate (INR/USD),IS,5.0,,0.716
+Infosys,IS_Basic EPS Excluding Extraordinary Items,IS,5.0,,-0.777
+Infosys,IS_Basic EPS Including Extraordinary Items,IS,5.0,,-0.777
+Infosys,IS_Basic Normalized EPS,IS,5.0,,-0.77
+Infosys,IS_Cost of Revenue,IS,5.0,,-0.735
+Infosys,"IS_Cost of Revenue, Total",IS,5.0,,-0.735
+Infosys,IS_Current Tax - Total,IS,5.0,,-0.758
+Infosys,"IS_Depreciation, Supplemental",IS,5.0,,-0.721
+Infosys,IS_Diluted EPS Excluding ExtraOrd Items,IS,5.0,,-0.78
+Infosys,IS_Diluted EPS Including ExtraOrd Items,IS,5.0,,-0.78
+Infosys,IS_Diluted Normalized EPS,IS,5.0,,-0.774
+Infosys,IS_Gross Profit,IS,5.0,,-0.778
+Infosys,IS_Net Sales,IS,5.0,,-0.753
+Infosys,IS_Normalized EBIT,IS,5.0,,-0.8
+Infosys,IS_Normalized EBITDA,IS,5.0,,-0.8
+Infosys,IS_Operating Income,IS,5.0,,-0.802
+Infosys,IS_Provision for Income Taxes,IS,5.0,,-0.754
+Infosys,IS_Revenue,IS,5.0,,-0.753
+Infosys,"IS_Selling/General/Admin. Expenses, Total",IS,5.0,,-0.736
+Infosys,IS_Total Operating Expense,IS,5.0,,-0.733
+Infosys,IS_Total Revenue,IS,5.0,,-0.753
+Infosys,SG&A,수익성,2.0,,-0.736
+Infosys,매출액(천원),성장성,0.0,,-0.753
+Infosys,매출원가(천원),성장성,2.0,,-0.735
+Infosys,영업이익(천원),수익성,1.0,,-0.802
+Infosys,매출총이익(천원),수익성,0.0,,-0.778

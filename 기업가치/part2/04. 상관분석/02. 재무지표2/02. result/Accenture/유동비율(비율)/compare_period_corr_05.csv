@@ -1,0 +1,16 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Accenture,FS_Current Ratio,FS,5,1.0,1.0
+Accenture,FS_Working Capital to Total Assets,FS,5,0.896,0.927
+Accenture,매입채무회전율,활동성,2,0.535,0.515
+Accenture,"CF_Long Term Debt, Net",CF,5,0.528,0.528
+Accenture,BS_Current Port. of LT Debt/Capital Leases,BS,5,-0.521,-0.523
+Accenture,비유동비율(천원),안정성,2,-0.528,-0.534
+Accenture,BS_Other Comprehensive Income,BS,5,-0.576,-0.584
+Accenture,재고자산회전율(비율),활동성,2,-0.644,-0.646
+Accenture,BS_Cash & Equivalents,BS,5,,0.502
+Accenture,BS_Cash and Short Term Investments,BS,5,,0.508
+Accenture,CF_Net Cash - Ending Balance,CF,5,,0.502
+Accenture,FS_Cash & Cash Equivalents,FS,5,,0.502
+Accenture,FS_Cash & Short-Term Investments,FS,5,,0.508
+Accenture,IS_Interest Income - Non-Operating,IS,5,,-0.555
+Accenture,단기투자자산,안정성,1,,0.508

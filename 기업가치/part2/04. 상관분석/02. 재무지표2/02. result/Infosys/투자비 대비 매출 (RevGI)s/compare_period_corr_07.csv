@@ -1,0 +1,6 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Infosys,ROGI(%),수익성,0.0,0.787,0.753
+Infosys,무형자산회전율s,활동성,0.0,0.782,0.748
+Infosys,FS_Working Capital to Total Assets,FS,5.0,0.703,
+Infosys,비유동비율(천원),안정성,2.0,-0.74,-0.713
+Infosys,BS_Other Payables,BS,5.0,,0.761
