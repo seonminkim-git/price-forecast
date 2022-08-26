@@ -1,0 +1,151 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Cognizant,EBITDA2증가율(YoY)(비율),성장성,1,0.889,0.883
+Cognizant,영업이익증가율(YoY)(연도),성장성,1,0.882,0.922
+Cognizant,유형자산감상비 누계,안정성,1,0.863,0.843
+Cognizant,FS_ROE,FS,5,0.863,0.855
+Cognizant,"BS_Accumulated Depreciation, Total",BS,5,0.863,0.843
+Cognizant,ROE(지배)(비율),수익성,1,0.863,0.855
+Cognizant,"BPS(지배, Adj.)(원/주)",안정성,2,0.855,0.854
+Cognizant,FS_ROIC,FS,5,0.843,0.818
+Cognizant,"FS_Reinvestment Rate - %, TTM",FS,5,0.84,0.845
+Cognizant,FS_ROA,FS,5,0.836,0.824
+Cognizant,ROA(비율),수익성,1,0.836,0.824
+Cognizant,"FS_Accounts Receivable Turnover, TTM",FS,5,0.824,0.811
+Cognizant,"FS_Pretax ROA - %, TTM",FS,5,0.809,0.801
+Cognizant,FS_Working Capital to Total Assets,FS,5,0.767,0.768
+Cognizant,매출액이익률(비율),수익성,0,0.758,0.718
+Cognizant,유동비율(비율),안정성,2,0.758,0.743
+Cognizant,FS_Gross Profit Margin - %,FS,5,0.758,0.718
+Cognizant,FS_Current Ratio,FS,5,0.758,0.743
+Cognizant,총자산회전율(비율),활동성,0,0.75,0.701
+Cognizant,"FS_Asset Turnover, TTM",FS,5,0.75,0.701
+Cognizant,"FS_Income before Tax Margin - %, TTM",FS,5,0.745,0.784
+Cognizant,순이익률(비율),수익성,2,0.744,
+Cognizant,FS_Net Margin - %,FS,5,0.744,
+Cognizant,순부채(천원),안정성,2,0.721,0.811
+Cognizant,BS_Net Debt Incl. Pref.Stock & Min.Interest,BS,5,0.721,0.811
+Cognizant,FS_Income before Tax Margin - %,FS,5,0.72,
+Cognizant,"FS_Tax Complement, TTM",FS,5,0.701,
+Cognizant,BS_Operating Lease Payments Due in Year 4,BS,5,-0.707,
+Cognizant,IS_Interest Income - Non-Operating,IS,5,-0.707,-0.766
+Cognizant,FS_CAPEX,FS,5,-0.723,
+Cognizant,CAPEX(천원),성장성,1,-0.723,
+Cognizant,BS_Goodwill - Net,BS,5,-0.723,-0.726
+Cognizant,"BS_Goodwill, Net",BS,5,-0.723,-0.726
+Cognizant,FS_Net Cash Flow from Operating Activities,FS,5,-0.729,-0.72
+Cognizant,"BS_Total Operating Leases, Supplemental",BS,5,-0.735,-0.761
+Cognizant,BS_Intangibles - Net,BS,5,-0.741,
+Cognizant,무형자산,안정성,2,-0.741,
+Cognizant,BS_Operating Lease Payments Due in Year 3,BS,5,-0.743,-0.731
+Cognizant,비유동비율(천원),안정성,2,-0.75,-0.748
+Cognizant,"BS_Intangibles, Net",BS,5,-0.751,-0.712
+Cognizant,BS_Operating Lease Pymts. Due in 2-3 Years,BS,5,-0.751,-0.741
+Cognizant,BS_Operating Lease Payments Due in Year 2,BS,5,-0.755,-0.747
+Cognizant,"IS_Stock-Based Compensation, Supplemental",IS,5,-0.773,-0.738
+Cognizant,BS_Other Long Term Assets,BS,5,-0.774,-0.748
+Cognizant,BS_Cash & Equivalents,BS,5,-0.774,-0.796
+Cognizant,FS_Cash & Cash Equivalents,FS,5,-0.774,-0.796
+Cognizant,BS_Other Current Assets,BS,5,-0.776,-0.774
+Cognizant,CF_Net Cash - Ending Balance,CF,5,-0.778,-0.801
+Cognizant,비유동자산(천원),안정성,2,-0.783,-0.789
+Cognizant,"BS_Other Current Assets, Total",BS,5,-0.789,-0.789
+Cognizant,IS_Basic EPS Including Extraordinary Items,IS,5,-0.799,-0.813
+Cognizant,BS_Accounts Payable,BS,5,-0.8,-0.844
+Cognizant,FS_Market Capitalization,FS,5,-0.8,-0.791
+Cognizant,IS_Diluted EPS Including ExtraOrd Items,IS,5,-0.802,-0.816
+Cognizant,IS_Diluted Net Income,IS,5,-0.804,-0.815
+Cognizant,IS_Income Available to Com Incl ExtraOrd,IS,5,-0.804,-0.815
+Cognizant,IS_Net Income,IS,5,-0.804,-0.815
+Cognizant,당기순이익(천원),수익성,1,-0.804,-0.815
+Cognizant,단기투자자산,안정성,1,-0.808,-0.832
+Cognizant,BS_Cash and Short Term Investments,BS,5,-0.808,-0.832
+Cognizant,FS_Cash & Short-Term Investments,FS,5,-0.808,-0.832
+Cognizant,BS_Total Liabilities,BS,5,-0.809,-0.81
+Cognizant,부채총계(천원),안정성,2,-0.809,-0.81
+Cognizant,IS_Provision for Income Taxes,IS,5,-0.811,-0.799
+Cognizant,"BS_Other Long Term Assets, Total",BS,5,-0.815,-0.79
+Cognizant,BS_Customer Advances,BS,5,-0.816,-0.8
+Cognizant,BS_Deferred Revenue - Current,BS,5,-0.816,-0.8
+Cognizant,CF_Net Cash - Beginning Balance,CF,5,-0.824,-0.802
+Cognizant,IS_Depreciation/Amortization,IS,5,-0.825,-0.826
+Cognizant,IS_Depreciation,IS,5,-0.825,-0.826
+Cognizant,BS_Other Current Liabilities,BS,5,-0.827,-0.799
+Cognizant,BS_Full-Time Employees,BS,5,-0.827,-0.821
+Cognizant,Gross Investment (GI),성장성,2,-0.827,-0.822
+Cognizant,"EPS(지배, Adj.)(원/주)",수익성,2,-0.827,-0.849
+Cognizant,FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,FS,5,-0.827,-0.849
+Cognizant,IS_Labor & Related Expense,IS,5,-0.829,-0.801
+Cognizant,IS_Basic EPS Excluding Extraordinary Items,IS,5,-0.83,-0.852
+Cognizant,IS_Diluted EPS Excluding ExtraOrd Items,IS,5,-0.833,-0.855
+Cognizant,"IS_Depreciation, Supplemental",IS,5,-0.834,-0.823
+Cognizant,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",FS,5,-0.834,-0.823
+Cognizant,FS_Income before Discontinued Operations & Extraordinary Items,FS,5,-0.836,-0.855
+Cognizant,BS_Defered Income Tax - Long Term Asset,BS,5,-0.836,-0.818
+Cognizant,IS_Net Income Before Extra. Items,IS,5,-0.836,-0.855
+Cognizant,IS_Income Available to Com Excl ExtraOrd,IS,5,-0.836,-0.855
+Cognizant,IS_Net Income After Taxes,IS,5,-0.838,-0.857
+Cognizant,BS_Deferred Income Tax - Current Asset,BS,5,-0.839,-0.814
+Cognizant,BS_Accrued Expenses,BS,5,-0.841,-0.847
+Cognizant,CF_Cash Taxes Paid,CF,5,-0.846,-0.827
+Cognizant,IS_Basic Normalized EPS,IS,5,-0.848,-0.844
+Cognizant,IS_Diluted Normalized EPS,IS,5,-0.849,-0.846
+Cognizant,"FS_Average Receivables Collection Days, TTM",FS,5,-0.851,-0.837
+Cognizant,"BS_Common Stock, Total",BS,5,-0.856,-0.861
+Cognizant,BS_Common Stock,BS,5,-0.856,-0.861
+Cognizant,IS_Normalized Income After Taxes,IS,5,-0.856,-0.852
+Cognizant,자본금(천원),안정성,2,-0.856,-0.861
+Cognizant,BS_Total Current Liabilities,BS,5,-0.856,-0.849
+Cognizant,IS_Normalized Inc. Avail to Com.,IS,5,-0.856,-0.853
+Cognizant,"BS_Property/Plant/Equipment, Total - Net",BS,5,-0.86,-0.869
+Cognizant,IS_Cost of Revenue,IS,5,-0.86,-0.858
+Cognizant,매출원가(천원),성장성,2,-0.86,-0.858
+Cognizant,"IS_Cost of Revenue, Total",IS,5,-0.86,-0.858
+Cognizant,IS_Net Income Before Taxes,IS,5,-0.861,-0.87
+Cognizant,"FS_Average Net Trade Cycle Days, TTM",FS,5,-0.861,-0.868
+Cognizant,자산총계(천원),안정성,2,-0.863,-0.851
+Cognizant,영업이익(천원),수익성,1,-0.863,-0.872
+Cognizant,BS_Total Liabilities & Shareholders' Equity,BS,5,-0.863,-0.851
+Cognizant,BS_Total Assets,BS,5,-0.863,-0.851
+Cognizant,IS_Operating Income,IS,5,-0.863,-0.872
+Cognizant,FS_Total Assets,FS,5,-0.863,-0.851
+Cognizant,FS_Operating Profit before Non-Recurring Income/Expense,FS,5,-0.865,-0.862
+Cognizant,"BS_Accounts Receivable - Trade, Gross",BS,5,-0.865,-0.858
+Cognizant,IS_Total Operating Expense,IS,5,-0.866,-0.863
+Cognizant,"BS_Other Current liabilities, Total",BS,5,-0.866,-0.848
+Cognizant,IS_Normalized EBIT,IS,5,-0.867,-0.864
+Cognizant,EBIT(천원),수익성,1,-0.867,-0.864
+Cognizant,이익잉여금(천원),수익성,2,-0.868,-0.853
+Cognizant,BS_Retained Earnings (Accumulated Deficit),BS,5,-0.868,-0.853
+Cognizant,EBITDA2(천원),수익성,1,-0.868,-0.862
+Cognizant,"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",FS,5,-0.868,-0.862
+Cognizant,IS_Total Revenue,IS,5,-0.869,-0.866
+Cognizant,매출액(천원),성장성,0,-0.869,-0.866
+Cognizant,IS_Normalized Income Before Taxes,IS,5,-0.869,-0.867
+Cognizant,IS_Net Sales,IS,5,-0.869,-0.866
+Cognizant,IS_Normalized EBITDA,IS,5,-0.869,-0.862
+Cognizant,"BS_Tangible Book Value, Common Equity",BS,5,-0.869,-0.881
+Cognizant,IS_Revenue,IS,5,-0.869,-0.866
+Cognizant,FS_Revenue from Business Activities - Total,FS,5,-0.869,-0.866
+Cognizant,"BS_Total Receivables, Net",BS,5,-0.871,-0.865
+Cognizant,"BS_Accounts Receivable - Trade, Net",BS,5,-0.871,-0.865
+Cognizant,SG&A,수익성,2,-0.873,-0.871
+Cognizant,IS_Selling/General/Administrative Expense,IS,5,-0.873,-0.873
+Cognizant,"IS_Selling/General/Admin. Expenses, Total",IS,5,-0.873,-0.871
+Cognizant,BS_Total Equity,BS,5,-0.874,-0.861
+Cognizant,FS_Common Equity - Total,FS,5,-0.874,-0.861
+Cognizant,BS_Total Equity & Minority Interest,BS,5,-0.874,-0.861
+Cognizant,BS_Total Current Assets,BS,5,-0.876,-0.861
+Cognizant,BS_Total Current Assets less Inventory,BS,5,-0.876,-0.861
+Cognizant,유동자산(천원),안정성,2,-0.876,-0.861
+Cognizant,매출총이익(천원),수익성,0,-0.877,-0.873
+Cognizant,BS_Other Property/Plant/Equipment - Gross,BS,5,-0.877,-0.86
+Cognizant,FS_Gross Profit - Industrials/Property - Total,FS,5,-0.877,-0.873
+Cognizant,Employment Number,ET,2,-0.877,-0.876
+Cognizant,IS_Gross Profit,IS,5,-0.877,-0.873
+Cognizant,인당매출s,성장성,0,-0.885,-0.886
+Cognizant,"BS_Property/Plant/Equipment, Total - Gross",BS,5,-0.902,-0.89
+Cognizant,"FS_Free Cash Flow Yield - %, TTM",FS,5,-0.91,-0.934
+Cognizant,BS_Short Term Investments,BS,5,,-0.725
+Cognizant,CF_Net Income/Starting Line,CF,5,,-0.717
+Cognizant,"FS_Payables Turnover, TTM",FS,5,,-0.721
+Cognizant,인당영업이익s,수익성,1,,-0.784

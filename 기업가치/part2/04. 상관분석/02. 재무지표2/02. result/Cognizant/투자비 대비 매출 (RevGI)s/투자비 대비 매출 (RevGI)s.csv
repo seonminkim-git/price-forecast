@@ -1,0 +1,231 @@
+﻿company,variable,corr,group,importance,company,variable,corr,group,importance
+Cognizant,"BPS(지배, Adj.)(원/주)",0.086,안정성,2,Cognizant,"BPS(지배, Adj.)(원/주)",-0.036,안정성,2
+Cognizant,BPS증가율(YoY)(비율),-0.258,성장성,2,Cognizant,BPS증가율(YoY)(비율),-0.265,성장성,2
+Cognizant,BS_Accounts Payable,-0.498,BS,5,Cognizant,BS_Accounts Payable,-0.277,BS,5
+Cognizant,"BS_Accounts Receivable - Trade, Gross",-0.466,BS,5,Cognizant,"BS_Accounts Receivable - Trade, Gross",-0.303,BS,5
+Cognizant,"BS_Accounts Receivable - Trade, Net",-0.454,BS,5,Cognizant,"BS_Accounts Receivable - Trade, Net",-0.289,BS,5
+Cognizant,BS_Accrued Expenses,-0.46,BS,5,Cognizant,BS_Accrued Expenses,-0.265,BS,5
+Cognizant,"BS_Accumulated Depreciation, Total",0.451,BS,5,Cognizant,"BS_Accumulated Depreciation, Total",0.303,BS,5
+Cognizant,BS_Additional Paid-In Capital,0.684,BS,5,Cognizant,BS_Additional Paid-In Capital,0.6,BS,5
+Cognizant,BS_Cash & Equivalents,-0.184,BS,5,Cognizant,BS_Cash & Equivalents,0.101,BS,5
+Cognizant,BS_Cash and Short Term Investments,-0.16,BS,5,Cognizant,BS_Cash and Short Term Investments,-0.113,BS,5
+Cognizant,BS_Common Stock,-0.312,BS,5,Cognizant,BS_Common Stock,-0.238,BS,5
+Cognizant,"BS_Common Stock, Total",-0.312,BS,5,Cognizant,"BS_Common Stock, Total",-0.238,BS,5
+Cognizant,BS_Customer Advances,-0.507,BS,5,Cognizant,BS_Customer Advances,-0.364,BS,5
+Cognizant,BS_Defered Income Tax - Long Term Asset,-0.511,BS,5,Cognizant,BS_Defered Income Tax - Long Term Asset,-0.402,BS,5
+Cognizant,BS_Deferred Income Tax,-0.483,BS,5,Cognizant,BS_Deferred Income Tax,-0.328,BS,5
+Cognizant,BS_Deferred Income Tax - Current Asset,-0.449,BS,5,Cognizant,BS_Deferred Income Tax - Current Asset,-0.316,BS,5
+Cognizant,BS_Deferred Income Tax - LT Liability,-0.483,BS,5,Cognizant,BS_Deferred Income Tax - LT Liability,-0.328,BS,5
+Cognizant,BS_Deferred Revenue - Current,-0.507,BS,5,Cognizant,BS_Deferred Revenue - Current,-0.364,BS,5
+Cognizant,BS_Full-Time Employees,-0.449,BS,5,Cognizant,BS_Full-Time Employees,-0.258,BS,5
+Cognizant,BS_Goodwill - Net,-0.662,BS,5,Cognizant,BS_Goodwill - Net,-0.552,BS,5
+Cognizant,"BS_Goodwill, Net",-0.662,BS,5,Cognizant,"BS_Goodwill, Net",-0.552,BS,5
+Cognizant,BS_Income Taxes Payable,-0.305,BS,5,Cognizant,BS_Income Taxes Payable,-0.235,BS,5
+Cognizant,BS_Intangibles - Net,-0.683,BS,5,Cognizant,BS_Intangibles - Net,-0.589,BS,5
+Cognizant,"BS_Intangibles, Net",-0.662,BS,5,Cognizant,"BS_Intangibles, Net",-0.563,BS,5
+Cognizant,BS_Long Term Investments,-0.604,BS,5,Cognizant,BS_Long Term Investments,-0.506,BS,5
+Cognizant,BS_Net Debt Incl. Pref.Stock & Min.Interest,-0.061,BS,5,Cognizant,BS_Net Debt Incl. Pref.Stock & Min.Interest,-0.039,BS,5
+Cognizant,BS_Operating Lease Payments Due in Year 2,-0.403,BS,5,Cognizant,BS_Operating Lease Payments Due in Year 2,-0.128,BS,5
+Cognizant,BS_Operating Lease Payments Due in Year 3,-0.404,BS,5,Cognizant,BS_Operating Lease Payments Due in Year 3,-0.13,BS,5
+Cognizant,BS_Operating Lease Payments Due in Year 4,-0.427,BS,5,Cognizant,BS_Operating Lease Payments Due in Year 4,-0.153,BS,5
+Cognizant,BS_Operating Lease Payments Due in Year 5,-0.431,BS,5,Cognizant,BS_Operating Lease Payments Due in Year 5,-0.146,BS,5
+Cognizant,BS_Operating Lease Pymts. Due in 2-3 Years,-0.404,BS,5,Cognizant,BS_Operating Lease Pymts. Due in 2-3 Years,-0.13,BS,5
+Cognizant,BS_Operating Lease Pymts. Due in 4-5 Years,-0.428,BS,5,Cognizant,BS_Operating Lease Pymts. Due in 4-5 Years,-0.148,BS,5
+Cognizant,BS_Other Comprehensive Income,-0.506,BS,5,Cognizant,BS_Other Comprehensive Income,-0.641,BS,5
+Cognizant,BS_Other Current Assets,-0.52,BS,5,Cognizant,BS_Other Current Assets,-0.374,BS,5
+Cognizant,"BS_Other Current Assets, Total",-0.329,BS,5,Cognizant,"BS_Other Current Assets, Total",-0.157,BS,5
+Cognizant,BS_Other Current Liabilities,-0.352,BS,5,Cognizant,BS_Other Current Liabilities,-0.155,BS,5
+Cognizant,"BS_Other Current liabilities, Total",-0.41,BS,5,Cognizant,"BS_Other Current liabilities, Total",-0.235,BS,5
+Cognizant,"BS_Other Equity, Total",-0.381,BS,5,Cognizant,"BS_Other Equity, Total",-0.401,BS,5
+Cognizant,"BS_Other Liabilities, Total",-0.522,BS,5,Cognizant,"BS_Other Liabilities, Total",-0.308,BS,5
+Cognizant,BS_Other Long Term Assets,-0.577,BS,5,Cognizant,BS_Other Long Term Assets,-0.42,BS,5
+Cognizant,"BS_Other Long Term Assets, Total",-0.562,BS,5,Cognizant,"BS_Other Long Term Assets, Total",-0.419,BS,5
+Cognizant,BS_Other Long Term Liabilities,-0.522,BS,5,Cognizant,BS_Other Long Term Liabilities,-0.308,BS,5
+Cognizant,BS_Other Property/Plant/Equipment - Gross,-0.424,BS,5,Cognizant,BS_Other Property/Plant/Equipment - Gross,-0.278,BS,5
+Cognizant,BS_Other Property/Plant/Equipment - Net,-0.586,BS,5,Cognizant,BS_Other Property/Plant/Equipment - Net,-0.425,BS,5
+Cognizant,"BS_Property/Plant/Equipment, Total - Gross",-0.378,BS,5,Cognizant,"BS_Property/Plant/Equipment, Total - Gross",-0.227,BS,5
+Cognizant,"BS_Property/Plant/Equipment, Total - Net",-0.441,BS,5,Cognizant,"BS_Property/Plant/Equipment, Total - Net",-0.222,BS,5
+Cognizant,BS_Retained Earnings (Accumulated Deficit),-0.475,BS,5,Cognizant,BS_Retained Earnings (Accumulated Deficit),-0.328,BS,5
+Cognizant,BS_Shares Outs - Common Stock Primary Issue,0.546,BS,5,Cognizant,BS_Shares Outs - Common Stock Primary Issue,0.411,BS,5
+Cognizant,BS_Short Term Investments,-0.08,BS,5,Cognizant,BS_Short Term Investments,-0.223,BS,5
+Cognizant,"BS_Tangible Book Value, Common Equity",-0.191,BS,5,Cognizant,"BS_Tangible Book Value, Common Equity",-0.116,BS,5
+Cognizant,BS_Total Assets,-0.498,BS,5,Cognizant,BS_Total Assets,-0.335,BS,5
+Cognizant,BS_Total Common Shares Outstanding,0.546,BS,5,Cognizant,BS_Total Common Shares Outstanding,0.411,BS,5
+Cognizant,BS_Total Current Assets,-0.31,BS,5,Cognizant,BS_Total Current Assets,-0.188,BS,5
+Cognizant,BS_Total Current Assets less Inventory,-0.31,BS,5,Cognizant,BS_Total Current Assets less Inventory,-0.188,BS,5
+Cognizant,BS_Total Current Liabilities,-0.459,BS,5,Cognizant,BS_Total Current Liabilities,-0.273,BS,5
+Cognizant,BS_Total Equity,-0.463,BS,5,Cognizant,BS_Total Equity,-0.315,BS,5
+Cognizant,BS_Total Equity & Minority Interest,-0.463,BS,5,Cognizant,BS_Total Equity & Minority Interest,-0.315,BS,5
+Cognizant,BS_Total Liabilities,-0.546,BS,5,Cognizant,BS_Total Liabilities,-0.376,BS,5
+Cognizant,BS_Total Liabilities & Shareholders' Equity,-0.498,BS,5,Cognizant,BS_Total Liabilities & Shareholders' Equity,-0.335,BS,5
+Cognizant,"BS_Total Operating Leases, Supplemental",-0.412,BS,5,Cognizant,"BS_Total Operating Leases, Supplemental",-0.109,BS,5
+Cognizant,"BS_Total Receivables, Net",-0.454,BS,5,Cognizant,"BS_Total Receivables, Net",-0.289,BS,5
+Cognizant,BS_Translation Adjustment,0.3,BS,5,Cognizant,BS_Translation Adjustment,0.594,BS,5
+Cognizant,CF_Accounts Payable,-0.077,CF,5,Cognizant,CF_Accounts Payable,0.133,CF,5
+Cognizant,CF_Accounts Receivable,-0.096,CF,5,Cognizant,CF_Accounts Receivable,-0.046,CF,5
+Cognizant,CF_Acquisition of Business,0.22,CF,5,Cognizant,CF_Acquisition of Business,0.056,CF,5
+Cognizant,CF_Capital Expenditures,0.168,CF,5,Cognizant,CF_Capital Expenditures,0.056,CF,5
+Cognizant,CF_Cash Taxes Paid,-0.474,CF,5,Cognizant,CF_Cash Taxes Paid,-0.308,CF,5
+Cognizant,CF_Cash from Financing Activities,0.399,CF,5,Cognizant,CF_Cash from Financing Activities,0.494,CF,5
+Cognizant,CF_Cash from Investing Activities,-0.038,CF,5,Cognizant,CF_Cash from Investing Activities,-0.215,CF,5
+Cognizant,CF_Cash from Operating Activities,-0.322,CF,5,Cognizant,CF_Cash from Operating Activities,-0.22,CF,5
+Cognizant,CF_Changes in Working Capital,0.1,CF,5,Cognizant,CF_Changes in Working Capital,0.122,CF,5
+Cognizant,"CF_Common Stock, Net",0.446,CF,5,Cognizant,"CF_Common Stock, Net",0.417,CF,5
+Cognizant,CF_Deferred Taxes,-0.147,CF,5,Cognizant,CF_Deferred Taxes,0.105,CF,5
+Cognizant,CF_Depreciation,-0.478,CF,5,Cognizant,CF_Depreciation,-0.377,CF,5
+Cognizant,CF_Depreciation/Depletion,-0.478,CF,5,Cognizant,CF_Depreciation/Depletion,-0.377,CF,5
+Cognizant,CF_Financing Cash Flow Items,0.566,CF,5,Cognizant,CF_Financing Cash Flow Items,0.515,CF,5
+Cognizant,CF_Foreign Exchange Effects,0.185,CF,5,Cognizant,CF_Foreign Exchange Effects,-0.046,CF,5
+Cognizant,CF_Free Cash Flow,-0.34,CF,5,Cognizant,CF_Free Cash Flow,-0.243,CF,5
+Cognizant,"CF_Issuance (Retirement) of Stock, Net",0.451,CF,5,Cognizant,"CF_Issuance (Retirement) of Stock, Net",0.422,CF,5
+Cognizant,CF_Net Cash - Beginning Balance,-0.221,CF,5,Cognizant,CF_Net Cash - Beginning Balance,0.029,CF,5
+Cognizant,CF_Net Cash - Ending Balance,-0.183,CF,5,Cognizant,CF_Net Cash - Ending Balance,0.1,CF,5
+Cognizant,CF_Net Changes in Working Capital,0.1,CF,5,Cognizant,CF_Net Changes in Working Capital,0.122,CF,5
+Cognizant,CF_Net Income/Starting Line,-0.274,CF,5,Cognizant,CF_Net Income/Starting Line,-0.189,CF,5
+Cognizant,CF_Non-Cash Items,-0.421,CF,5,Cognizant,CF_Non-Cash Items,-0.309,CF,5
+Cognizant,CF_Options Exercised,-0.251,CF,5,Cognizant,CF_Options Exercised,-0.223,CF,5
+Cognizant,CF_Other Assets,-0.323,CF,5,Cognizant,CF_Other Assets,-0.166,CF,5
+Cognizant,CF_Other Financing Cash Flow,0.566,CF,5,Cognizant,CF_Other Financing Cash Flow,0.515,CF,5
+Cognizant,"CF_Other Investing Cash Flow Items, Total",-0.065,CF,5,Cognizant,"CF_Other Investing Cash Flow Items, Total",-0.227,CF,5
+Cognizant,CF_Other Liabilities,0.316,CF,5,Cognizant,CF_Other Liabilities,0.188,CF,5
+Cognizant,CF_Other Non-Cash Items,-0.42,CF,5,Cognizant,CF_Other Non-Cash Items,-0.307,CF,5
+Cognizant,CF_Purchase of Fixed Assets,0.168,CF,5,Cognizant,CF_Purchase of Fixed Assets,0.056,CF,5
+Cognizant,CF_Purchase of Investments,0.168,CF,5,Cognizant,CF_Purchase of Investments,0.231,CF,5
+Cognizant,CF_Repurchase/Retirement of Common,0.446,CF,5,Cognizant,CF_Repurchase/Retirement of Common,0.417,CF,5
+Cognizant,CF_Sale/Maturity of Investment,-0.275,CF,5,Cognizant,CF_Sale/Maturity of Investment,-0.357,CF,5
+Cognizant,EBIT(천원),-0.365,수익성,1,Cognizant,EBIT(천원),-0.229,수익성,1
+Cognizant,EBITDA2(천원),-0.394,수익성,1,Cognizant,EBITDA2(천원),-0.246,수익성,1
+Cognizant,EBITDA2마진율(비율),0.311,수익성,1,Cognizant,EBITDA2마진율(비율),0.091,수익성,1
+Cognizant,EBITDA2증가율(YoY)(비율),0.326,성장성,1,Cognizant,EBITDA2증가율(YoY)(비율),0.207,성장성,1
+Cognizant,"EPS(지배, Adj.)(원/주)",-0.357,수익성,2,Cognizant,"EPS(지배, Adj.)(원/주)",-0.209,수익성,2
+Cognizant,EPS증가율(YoY)(비율),-0.012,성장성,2,Cognizant,EPS증가율(YoY)(비율),-0.068,성장성,2
+Cognizant,Employment Number,-0.416,ET,2,Cognizant,Employment Number,-0.238,ET,2
+Cognizant,"FS_Accounts Receivable Turnover, TTM",0.073,FS,5,Cognizant,"FS_Accounts Receivable Turnover, TTM",-0.056,FS,5
+Cognizant,"FS_Asset Turnover, TTM",0.586,FS,5,Cognizant,"FS_Asset Turnover, TTM",0.473,FS,5
+Cognizant,"FS_Average Net Trade Cycle Days, TTM",-0.087,FS,5,Cognizant,"FS_Average Net Trade Cycle Days, TTM",0.006,FS,5
+Cognizant,"FS_Average Receivables Collection Days, TTM",-0.123,FS,5,Cognizant,"FS_Average Receivables Collection Days, TTM",0.013,FS,5
+Cognizant,FS_CAPEX,-0.101,FS,5,Cognizant,FS_CAPEX,0.064,FS,5
+Cognizant,FS_Cash & Cash Equivalents,-0.184,FS,5,Cognizant,FS_Cash & Cash Equivalents,0.101,FS,5
+Cognizant,FS_Cash & Short-Term Investments,-0.16,FS,5,Cognizant,FS_Cash & Short-Term Investments,-0.113,FS,5
+Cognizant,FS_Common Equity - Total,-0.463,FS,5,Cognizant,FS_Common Equity - Total,-0.315,FS,5
+Cognizant,FS_Common Shares - Outstanding - Total,0.187,FS,5,Cognizant,FS_Common Shares - Outstanding - Total,0.089,FS,5
+Cognizant,FS_Current Ratio,0.406,FS,5,Cognizant,FS_Current Ratio,0.179,FS,5
+Cognizant,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",-0.575,FS,5,Cognizant,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",-0.428,FS,5
+Cognizant,FS_EBITDA Margin - %,0.311,FS,5,Cognizant,FS_EBITDA Margin - %,0.091,FS,5
+Cognizant,FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,-0.357,FS,5,Cognizant,FS_EPS - Diluted - excluding Extraordinary Items Applicable to Common - Total,-0.209,FS,5
+Cognizant,"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",-0.394,FS,5,Cognizant,"FS_Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",-0.246,FS,5
+Cognizant,FS_Free Cash Flow Net of Dividends,-0.315,FS,5,Cognizant,FS_Free Cash Flow Net of Dividends,-0.22,FS,5
+Cognizant,"FS_Free Cash Flow Yield - %, TTM",-0.405,FS,5,Cognizant,"FS_Free Cash Flow Yield - %, TTM",-0.224,FS,5
+Cognizant,FS_Gross Profit - Industrials/Property - Total,-0.391,FS,5,Cognizant,FS_Gross Profit - Industrials/Property - Total,-0.226,FS,5
+Cognizant,FS_Gross Profit Margin - %,0.497,FS,5,Cognizant,FS_Gross Profit Margin - %,0.321,FS,5
+Cognizant,FS_Income Tax Rate - %,-0.118,FS,5,Cognizant,FS_Income Tax Rate - %,0.017,FS,5
+Cognizant,FS_Income before Discontinued Operations & Extraordinary Items,-0.341,FS,5,Cognizant,FS_Income before Discontinued Operations & Extraordinary Items,-0.212,FS,5
+Cognizant,FS_Income before Tax Margin - %,0.51,FS,5,Cognizant,FS_Income before Tax Margin - %,0.334,FS,5
+Cognizant,"FS_Income before Tax Margin - %, TTM",0.593,FS,5,Cognizant,"FS_Income before Tax Margin - %, TTM",0.448,FS,5
+Cognizant,FS_Market Capitalization,-0.331,FS,5,Cognizant,FS_Market Capitalization,-0.186,FS,5
+Cognizant,FS_Net Cash Flow from Operating Activities,-0.38,FS,5,Cognizant,FS_Net Cash Flow from Operating Activities,-0.248,FS,5
+Cognizant,FS_Net Change in Cash - Total,0.031,FS,5,Cognizant,FS_Net Change in Cash - Total,-0.026,FS,5
+Cognizant,FS_Net Margin - %,0.373,FS,5,Cognizant,FS_Net Margin - %,0.169,FS,5
+Cognizant,FS_Operating Margin - %,0.47,FS,5,Cognizant,FS_Operating Margin - %,0.289,FS,5
+Cognizant,FS_Operating Profit before Non-Recurring Income/Expense,-0.355,FS,5,Cognizant,FS_Operating Profit before Non-Recurring Income/Expense,-0.213,FS,5
+Cognizant,"FS_Payables Turnover, TTM",0.093,FS,5,Cognizant,"FS_Payables Turnover, TTM",-0.038,FS,5
+Cognizant,"FS_Pretax ROA - %, TTM",0.622,FS,5,Cognizant,"FS_Pretax ROA - %, TTM",0.491,FS,5
+Cognizant,FS_ROA,0.524,FS,5,Cognizant,FS_ROA,0.357,FS,5
+Cognizant,FS_ROE,0.517,FS,5,Cognizant,FS_ROE,0.361,FS,5
+Cognizant,FS_ROIC,0.551,FS,5,Cognizant,FS_ROIC,0.424,FS,5
+Cognizant,"FS_Reinvestment Rate - %, TTM",0.579,FS,5,Cognizant,"FS_Reinvestment Rate - %, TTM",0.428,FS,5
+Cognizant,FS_Revenue from Business Activities - Total,-0.449,FS,5,Cognizant,FS_Revenue from Business Activities - Total,-0.276,FS,5
+Cognizant,FS_Shares used to calculate Diluted EPS - Total,0.675,FS,5,Cognizant,FS_Shares used to calculate Diluted EPS - Total,0.573,FS,5
+Cognizant,"FS_Tax Complement, TTM",0.226,FS,5,Cognizant,"FS_Tax Complement, TTM",0.038,FS,5
+Cognizant,FS_Total Assets,-0.497,FS,5,Cognizant,FS_Total Assets,-0.335,FS,5
+Cognizant,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",-0.522,FS,5,Cognizant,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",-0.317,FS,5
+Cognizant,FS_Working Capital to Total Assets,0.613,FS,5,Cognizant,FS_Working Capital to Total Assets,0.473,FS,5
+Cognizant,Free Cash Flow2(천원),-0.34,수익성,0,Cognizant,Free Cash Flow2(천원),-0.243,수익성,0
+Cognizant,Gross Investment (GI),-0.588,성장성,2,Cognizant,Gross Investment (GI),-0.445,성장성,2
+Cognizant,IS_Basic EPS Excluding Extraordinary Items,-0.382,IS,5,Cognizant,IS_Basic EPS Excluding Extraordinary Items,-0.232,IS,5
+Cognizant,IS_Basic EPS Including Extraordinary Items,-0.345,IS,5,Cognizant,IS_Basic EPS Including Extraordinary Items,-0.176,IS,5
+Cognizant,IS_Basic Normalized EPS,-0.424,IS,5,Cognizant,IS_Basic Normalized EPS,-0.277,IS,5
+Cognizant,IS_Basic Weighted Average Shares,0.516,IS,5,Cognizant,IS_Basic Weighted Average Shares,0.382,IS,5
+Cognizant,IS_Cost of Revenue,-0.472,IS,5,Cognizant,IS_Cost of Revenue,-0.298,IS,5
+Cognizant,"IS_Cost of Revenue, Total",-0.472,IS,5,Cognizant,"IS_Cost of Revenue, Total",-0.298,IS,5
+Cognizant,IS_Depreciation,-0.577,IS,5,Cognizant,IS_Depreciation,-0.421,IS,5
+Cognizant,"IS_Depreciation, Supplemental",-0.577,IS,5,Cognizant,"IS_Depreciation, Supplemental",-0.43,IS,5
+Cognizant,IS_Depreciation/Amortization,-0.577,IS,5,Cognizant,IS_Depreciation/Amortization,-0.421,IS,5
+Cognizant,IS_Diluted EPS Excluding ExtraOrd Items,-0.386,IS,5,Cognizant,IS_Diluted EPS Excluding ExtraOrd Items,-0.237,IS,5
+Cognizant,IS_Diluted EPS Including ExtraOrd Items,-0.349,IS,5,Cognizant,IS_Diluted EPS Including ExtraOrd Items,-0.181,IS,5
+Cognizant,IS_Diluted Net Income,-0.303,IS,5,Cognizant,IS_Diluted Net Income,-0.156,IS,5
+Cognizant,IS_Diluted Normalized EPS,-0.428,IS,5,Cognizant,IS_Diluted Normalized EPS,-0.281,IS,5
+Cognizant,IS_Diluted Weighted Average Shares,0.675,IS,5,Cognizant,IS_Diluted Weighted Average Shares,0.573,IS,5
+Cognizant,IS_Effect of Special Items on Income Taxes,0.211,IS,5,Cognizant,IS_Effect of Special Items on Income Taxes,0.099,IS,5
+Cognizant,IS_Gross Profit,-0.407,IS,5,Cognizant,IS_Gross Profit,-0.241,IS,5
+Cognizant,IS_Income Available to Com Excl ExtraOrd,-0.341,IS,5,Cognizant,IS_Income Available to Com Excl ExtraOrd,-0.212,IS,5
+Cognizant,IS_Income Available to Com Incl ExtraOrd,-0.303,IS,5,Cognizant,IS_Income Available to Com Incl ExtraOrd,-0.156,IS,5
+Cognizant,"IS_Interest Exp.(Inc.),Net-Operating, Total",-0.462,IS,5,Cognizant,"IS_Interest Exp.(Inc.),Net-Operating, Total",-0.283,IS,5
+Cognizant,"IS_Interest Inc.(Exp.),Net-Non-Op., Total",-0.04,IS,5,Cognizant,"IS_Interest Inc.(Exp.),Net-Non-Op., Total",-0.118,IS,5
+Cognizant,IS_Interest Income - Non-Operating,-0.367,IS,5,Cognizant,IS_Interest Income - Non-Operating,-0.415,IS,5
+Cognizant,IS_Interest/Invest Income - Non-Operating,-0.105,IS,5,Cognizant,IS_Interest/Invest Income - Non-Operating,-0.179,IS,5
+Cognizant,IS_Interest/Investment Income - Operating,-0.462,IS,5,Cognizant,IS_Interest/Investment Income - Operating,-0.283,IS,5
+Cognizant,IS_Investment Income - Non-Operating,0.099,IS,5,Cognizant,IS_Investment Income - Non-Operating,0.071,IS,5
+Cognizant,IS_Investment Income - Operating,-0.462,IS,5,Cognizant,IS_Investment Income - Operating,-0.283,IS,5
+Cognizant,IS_Labor & Related Expense,-0.369,IS,5,Cognizant,IS_Labor & Related Expense,-0.196,IS,5
+Cognizant,IS_Net Income,-0.303,IS,5,Cognizant,IS_Net Income,-0.156,IS,5
+Cognizant,IS_Net Income After Taxes,-0.344,IS,5,Cognizant,IS_Net Income After Taxes,-0.217,IS,5
+Cognizant,IS_Net Income Before Extra. Items,-0.341,IS,5,Cognizant,IS_Net Income Before Extra. Items,-0.212,IS,5
+Cognizant,IS_Net Income Before Taxes,-0.355,IS,5,Cognizant,IS_Net Income Before Taxes,-0.216,IS,5
+Cognizant,IS_Net Sales,-0.449,IS,5,Cognizant,IS_Net Sales,-0.276,IS,5
+Cognizant,IS_Normalized EBIT,-0.365,IS,5,Cognizant,IS_Normalized EBIT,-0.229,IS,5
+Cognizant,IS_Normalized EBITDA,-0.402,IS,5,Cognizant,IS_Normalized EBITDA,-0.259,IS,5
+Cognizant,IS_Normalized Inc. Avail to Com.,-0.389,IS,5,Cognizant,IS_Normalized Inc. Avail to Com.,-0.259,IS,5
+Cognizant,IS_Normalized Income After Taxes,-0.39,IS,5,Cognizant,IS_Normalized Income After Taxes,-0.263,IS,5
+Cognizant,IS_Normalized Income Before Taxes,-0.386,IS,5,Cognizant,IS_Normalized Income Before Taxes,-0.25,IS,5
+Cognizant,IS_Operating Income,-0.357,IS,5,Cognizant,IS_Operating Income,-0.211,IS,5
+Cognizant,IS_Other Non-Operating Income (Expense),0.02,IS,5,Cognizant,IS_Other Non-Operating Income (Expense),0.059,IS,5
+Cognizant,"IS_Other, Net",0.02,IS,5,Cognizant,"IS_Other, Net",0.059,IS,5
+Cognizant,IS_Provision for Income Taxes,-0.339,IS,5,Cognizant,IS_Provision for Income Taxes,-0.189,IS,5
+Cognizant,IS_Revenue,-0.449,IS,5,Cognizant,IS_Revenue,-0.276,IS,5
+Cognizant,"IS_Selling/General/Admin. Expenses, Total",-0.416,IS,5,Cognizant,"IS_Selling/General/Admin. Expenses, Total",-0.236,IS,5
+Cognizant,IS_Selling/General/Administrative Expense,-0.419,IS,5,Cognizant,IS_Selling/General/Administrative Expense,-0.235,IS,5
+Cognizant,"IS_Stock-Based Compensation, Supplemental",-0.412,IS,5,Cognizant,"IS_Stock-Based Compensation, Supplemental",-0.22,IS,5
+Cognizant,IS_Total Operating Expense,-0.464,IS,5,Cognizant,IS_Total Operating Expense,-0.289,IS,5
+Cognizant,IS_Total Revenue,-0.449,IS,5,Cognizant,IS_Total Revenue,-0.276,IS,5
+Cognizant,Opex Margin,0.339,수익성,0,Cognizant,Opex Margin,0.127,수익성,0
+Cognizant,ROA(비율),0.524,수익성,1,Cognizant,ROA(비율),0.357,수익성,1
+Cognizant,ROE(지배)(비율),0.517,수익성,1,Cognizant,ROE(지배)(비율),0.361,수익성,1
+Cognizant,SG&A,-0.416,수익성,2,Cognizant,SG&A,-0.236,수익성,2
+Cognizant,단기투자자산,-0.16,안정성,1,Cognizant,단기투자자산,-0.113,안정성,1
+Cognizant,당기순이익(천원),-0.303,수익성,1,Cognizant,당기순이익(천원),-0.156,수익성,1
+Cognizant,매입채무회전율,0.176,활동성,2,Cognizant,매입채무회전율,0.042,활동성,2
+Cognizant,매출액(천원),-0.449,성장성,0,Cognizant,매출액(천원),-0.276,성장성,0
+Cognizant,매출액이익률(비율),0.497,수익성,0,Cognizant,매출액이익률(비율),0.321,수익성,0
+Cognizant,매출원가(천원),-0.472,성장성,2,Cognizant,매출원가(천원),-0.298,성장성,2
+Cognizant,매출채권회전율,-0.135,활동성,2,Cognizant,매출채권회전율,-0.007,활동성,2
+Cognizant,무형자산,-0.683,안정성,2,Cognizant,무형자산,-0.589,안정성,2
+Cognizant,부채비율(비율),-0.466,안정성,0,Cognizant,부채비율(비율),-0.256,안정성,0
+Cognizant,부채총계(천원),-0.546,안정성,2,Cognizant,부채총계(천원),-0.376,안정성,2
+Cognizant,비유동비율(천원),-0.671,안정성,2,Cognizant,비유동비율(천원),-0.564,안정성,2
+Cognizant,비유동자산(천원),-0.623,안정성,2,Cognizant,비유동자산(천원),-0.485,안정성,2
+Cognizant,순부채(천원),-0.061,안정성,2,Cognizant,순부채(천원),-0.039,안정성,2
+Cognizant,순이익률(비율),0.373,수익성,2,Cognizant,순이익률(비율),0.169,수익성,2
+Cognizant,순이익증가율(YoY)(비율),0.087,성장성,1,Cognizant,순이익증가율(YoY)(비율),0.114,성장성,1
+Cognizant,영업이익(천원),-0.357,수익성,1,Cognizant,영업이익(천원),-0.211,수익성,1
+Cognizant,영업이익률(비율),0.47,수익성,2,Cognizant,영업이익률(비율),0.289,수익성,2
+Cognizant,영업이익증가율(YoY)(연도),0.218,성장성,1,Cognizant,영업이익증가율(YoY)(연도),0.142,성장성,1
+Cognizant,운전자본증감(천원),0.1,안정성,2,Cognizant,운전자본증감(천원),0.122,안정성,2
+Cognizant,유동비율(비율),0.406,안정성,2,Cognizant,유동비율(비율),0.179,안정성,2
+Cognizant,유동자산(천원),-0.31,안정성,2,Cognizant,유동자산(천원),-0.188,안정성,2
+Cognizant,유형자산감상비 누계,0.451,안정성,1,Cognizant,유형자산감상비 누계,0.303,안정성,1
+Cognizant,이익잉여금(천원),-0.475,수익성,2,Cognizant,이익잉여금(천원),-0.328,수익성,2
+Cognizant,이자보상율,-0.013,안정성,2,Cognizant,이자보상율,-0.062,안정성,2
+Cognizant,인당매출s,-0.245,성장성,0,Cognizant,인당매출s,-0.111,성장성,0
+Cognizant,인당순이익s,0.553,수익성,2,Cognizant,인당순이익s,0.422,수익성,2
+Cognizant,인당영업이익s,0.224,수익성,1,Cognizant,인당영업이익s,0.14,수익성,1
+Cognizant,자기자본비율,0.451,안정성,2,Cognizant,자기자본비율,0.242,안정성,2
+Cognizant,자본금(천원),-0.312,안정성,2,Cognizant,자본금(천원),-0.238,안정성,2
+Cognizant,자산총계(천원),-0.498,안정성,2,Cognizant,자산총계(천원),-0.335,안정성,2
+Cognizant,재고자산회전율(비율),-0.539,활동성,2,Cognizant,재고자산회전율(비율),-0.401,활동성,2
+Cognizant,총자산회전율(비율),0.586,활동성,0,Cognizant,총자산회전율(비율),0.473,활동성,0
+Cognizant,매출액증가율(YoY)(연도),0.307,성장성,0,Cognizant,매출액증가율(YoY)(연도),0.163,성장성,0
+Cognizant,매출총이익(천원),-0.407,수익성,0,Cognizant,매출총이익(천원),-0.241,수익성,0
+Cognizant,무형자산회전율s,0.789,활동성,0,Cognizant,무형자산회전율s,0.744,활동성,0
+Cognizant,ROGI(%),0.94,수익성,0,Cognizant,ROGI(%),0.932,수익성,0
+Cognizant,CAPEX(천원),-0.101,성장성,1,Cognizant,CAPEX(천원),0.064,성장성,1

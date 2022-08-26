@@ -1,0 +1,52 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+Cognizant,ROGI(%),수익성,0,0.94,0.932
+Cognizant,무형자산회전율s,활동성,0,0.789,0.744
+Cognizant,BS_Additional Paid-In Capital,BS,5,0.684,0.6
+Cognizant,IS_Diluted Weighted Average Shares,IS,5,0.675,0.573
+Cognizant,FS_Shares used to calculate Diluted EPS - Total,FS,5,0.675,0.573
+Cognizant,"FS_Pretax ROA - %, TTM",FS,5,0.622,
+Cognizant,FS_Working Capital to Total Assets,FS,5,0.613,
+Cognizant,"FS_Income before Tax Margin - %, TTM",FS,5,0.593,
+Cognizant,총자산회전율(비율),활동성,0,0.586,
+Cognizant,"FS_Asset Turnover, TTM",FS,5,0.586,
+Cognizant,"FS_Reinvestment Rate - %, TTM",FS,5,0.579,
+Cognizant,CF_Financing Cash Flow Items,CF,5,0.566,0.515
+Cognizant,CF_Other Financing Cash Flow,CF,5,0.566,0.515
+Cognizant,인당순이익s,수익성,2,0.553,
+Cognizant,FS_ROIC,FS,5,0.551,
+Cognizant,BS_Shares Outs - Common Stock Primary Issue,BS,5,0.546,
+Cognizant,BS_Total Common Shares Outstanding,BS,5,0.546,
+Cognizant,ROA(비율),수익성,1,0.524,
+Cognizant,FS_ROA,FS,5,0.524,
+Cognizant,ROE(지배)(비율),수익성,1,0.517,
+Cognizant,FS_ROE,FS,5,0.517,
+Cognizant,IS_Basic Weighted Average Shares,IS,5,0.516,
+Cognizant,FS_Income before Tax Margin - %,FS,5,0.51,
+Cognizant,BS_Other Comprehensive Income,BS,5,-0.506,-0.641
+Cognizant,BS_Customer Advances,BS,5,-0.507,
+Cognizant,BS_Deferred Revenue - Current,BS,5,-0.507,
+Cognizant,BS_Defered Income Tax - Long Term Asset,BS,5,-0.511,
+Cognizant,BS_Other Current Assets,BS,5,-0.52,
+Cognizant,"BS_Other Liabilities, Total",BS,5,-0.522,
+Cognizant,"FS_Total Assets to Total Shareholders Equity - including Minority Interest & Hybrid Debt, Average TTM",FS,5,-0.522,
+Cognizant,BS_Other Long Term Liabilities,BS,5,-0.522,
+Cognizant,재고자산회전율(비율),활동성,2,-0.539,
+Cognizant,BS_Total Liabilities,BS,5,-0.546,
+Cognizant,부채총계(천원),안정성,2,-0.546,
+Cognizant,"BS_Other Long Term Assets, Total",BS,5,-0.562,
+Cognizant,"FS_Depreciation, Depletion & Amortization including Impairment - Cash Flow - to Reconcile",FS,5,-0.575,
+Cognizant,BS_Other Long Term Assets,BS,5,-0.577,
+Cognizant,IS_Depreciation,IS,5,-0.577,
+Cognizant,"IS_Depreciation, Supplemental",IS,5,-0.577,
+Cognizant,IS_Depreciation/Amortization,IS,5,-0.577,
+Cognizant,BS_Other Property/Plant/Equipment - Net,BS,5,-0.586,
+Cognizant,Gross Investment (GI),성장성,2,-0.588,
+Cognizant,BS_Long Term Investments,BS,5,-0.604,-0.506
+Cognizant,비유동자산(천원),안정성,2,-0.623,
+Cognizant,"BS_Goodwill, Net",BS,5,-0.662,-0.552
+Cognizant,"BS_Intangibles, Net",BS,5,-0.662,-0.563
+Cognizant,BS_Goodwill - Net,BS,5,-0.662,-0.552
+Cognizant,비유동비율(천원),안정성,2,-0.671,-0.564
+Cognizant,BS_Intangibles - Net,BS,5,-0.683,-0.589
+Cognizant,무형자산,안정성,2,-0.683,-0.589
+Cognizant,BS_Translation Adjustment,BS,5,,0.594

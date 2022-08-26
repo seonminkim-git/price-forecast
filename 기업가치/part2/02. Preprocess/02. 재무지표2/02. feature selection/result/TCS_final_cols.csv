@@ -1,0 +1,158 @@
+cols,cluster,distance
+매출액(천원),131,0.5372801521693429
+매출총이익(천원),131,0.5359510216077541
+Opex Margin,131,0.5833408587890092
+부채총계(천원),129,0.43565873464809957
+채무총계,106,0.4776424409466177
+무형자산,63,1.320252014112885
+BS_Total Preferred Shares Outstanding,61,1.3059055624218217
+BS_Total Common Shares Outstanding,74,1.571518813356224
+유동비율(비율),116,1.0871980870945883
+EBITDA2마진율(비율),16,0.8750580961651141
+유형자산감상비 누계,58,1.4621923140374853
+무형자산회전율s,122,0.5028878373555827
+매출원가(천원),51,1.3290930223310777
+ROE(지배)(비율),33,0.7005939702438452
+BS_Earnings Quality Score,27,1.0252234560073294
+IS_Unusual Expense (Income),82,0.9328783889328052
+"BS_Other Equity, Total",149,0.9781407464014596
+운전자본증감(천원),71,1.2670294415845929
+BS_Minority Interest - Non Redeemable,15,0.8008637703490149
+FS_Total Debt Percentage of Total Equity,105,0.6684060804211739
+CF_Total Debt Reduction,128,0.6829050565671821
+순부채(천원),59,1.3002165785712176
+Free Cash Flow2(천원),113,0.6853102691677357
+비유동자산(천원),135,0.6789334306668
+자본금(천원),103,0.485212997368613
+BS_Other Long Term Liabilities,130,0.5770742005853278
+"BS_Goodwill, Net",49,1.3646083775199889
+"CF_Long Term Debt, Net",75,1.4223173872831456
+IS_Total Pension Expense,5,0.9823547877704641
+IS_Deferred Tax - Total.1,23,1.0004460131486845
+무형자산감상비 누계,57,1.2126020229231693
+ROA(비율),35,0.8418376585290905
+영업이익증가율(YoY)(연도),19,0.8683398151369135
+CAPEX(천원),14,0.6896256162816945
+CF_Purchase of Fixed Assets,85,1.0312739065387044
+CF_Total Cash Dividends Paid,42,1.1389238836666702
+부채비율(비율),96,0.6696576582804368
+CF_Other Financing Cash Flow,72,1.3991646023378475
+"CF_Issuance (Retirement) of Stock, Net",70,1.343841547235924
+"CF_Other Investing Cash Flow Items, Total",80,1.1704560472426093
+IS_Interest/Invest Income - Non-Operating,117,0.754995914216162
+"IS_Interest Expense, Net Non-Operating",73,1.5661802245949215
+순이익률(비율),17,0.9316797206825448
+"IS_Minority Interest, Supplemental",86,1.0441566455474058
+총자산회전율(비율),32,0.8221200102008555
+매출액이익률(비율),119,0.7903399552099442
+"IS_Other, Net.1",3,0.7800973973299025
+BS_Deferred Income Tax - LT Liability,126,0.909064088114515
+BS_Long Term Investments,47,1.166271973483274
+IS_Total Adjustments to Net Income,62,1.2550439395418493
+BS_Other Equity,127,0.7334664226875134
+"BPS(지배, Adj.)(원/주)",91,0.20088927843962978
+BPS증가율(YoY)(비율),22,0.5853348428877251
+BS_Accounts Payable,137,0.6446992857880627
+"BS_Accumulated Intangible Amort, Suppl.",138,0.7873979770768307
+BS_Cash,142,0.9571592540727061
+BS_Cash & Equivalents,147,1.0340307284305132
+BS_Construction in Progress - Gross,11,1.0865478888423339
+"BS_Curr Derivative Liab. Hedging, Suppl.",78,0.8360887502942319
+BS_Deferred Charges,67,1.0976023877312908
+BS_Dividends Payable,69,1.082993996509445
+BS_Goodwill - Gross,37,0.9601941241887967
+BS_Income Taxes Payable,123,0.4060024616823683
+BS_Intangibles - Gross,93,0.43578278436353
+"BS_Intangibles, Net",95,0.4355784272980495
+BS_Inventories - Finished Goods,65,1.1171811091664499
+BS_Inventories - Raw Materials,46,1.354408137712006
+BS_Land/Improvements - Gross,50,1.4638100590623884
+BS_Note Receivable - Long Term,151,1.2511881717924354
+BS_Notes Receivable - Short Term,139,0.5603780108522012
+BS_Number of Common Shareholders,53,1.2961334088391117
+BS_Other Comprehensive Income,143,0.6485612978854403
+BS_Other Current Liabilities,150,0.9376772310093824
+"BS_Other Current liabilities, Total",97,0.5822344439166147
+BS_Other Long Term Assets,64,1.3004956325115749
+"BS_Other Long Term Assets, Total",140,0.7691578213483171
+BS_Other Payables,13,1.0249193019983605
+BS_Other Property/Plant/Equipment - Gross,109,0.5602292712154365
+BS_Pension Benefits - Underfunded,108,0.4083361856764185
+BS_Prepaid Expenses,112,0.5839986744941514
+BS_Provision for Doubtful Accounts,55,1.1290878328516134
+BS_Receivables - Other,104,0.8016346613252897
+BS_Reserves,68,1.2807157991330984
+BS_Restricted Cash - Current,141,0.5550735849477078
+BS_Total Inventory,89,0.7996121019961944
+BS_Translation Adjustment,136,0.6972469344486025
+BS_Unrealized Gain (Loss),111,0.8062916198752483
+CF_Acquisition of Business,4,0.4927369089565965
+CF_Cash Interest Paid,110,0.5973173528899371
+CF_Cash Taxes Paid,115,0.8738988873526765
+CF_Cash from Financing Activities,43,1.1745032788052896
+CF_Foreign Exchange Effects,79,1.1040652941874831
+"CF_Investment, Net",88,0.8552018672515632
+"CF_Issuance (Retirement) of Debt, Net",77,1.4149752254257133
+CF_Net Cash - Beginning Balance,124,0.6306404967719692
+CF_Net Cash - Ending Balance,125,0.6848461381040571
+CF_Net Change in Cash,81,1.1377867930654324
+CF_Other Investing Cash Flow,146,0.8031353183378236
+CF_Purchase of Investments,66,1.0176119708734341
+CF_Purchase/Acquisition of Intangibles,76,1.5084157865459065
+CF_Sale of Business,31,0.8691795216272279
+CF_Sale of Fixed Assets,98,1.083258530713132
+CF_Sale/Maturity of Investment,153,1.0621039796816476
+"CF_Short Term Debt, Net",6,0.7961130039741402
+EPS증가율(YoY)(비율),21,0.7735405973984583
+"FS_Accounts Receivable Turnover, TTM",154,0.7440535552424232
+"FS_Average Inventory Days, TTM",87,0.6944220485067003
+"FS_Average Net Trade Cycle Days, TTM",40,1.0601920164897032
+"FS_Average Payables Payment Days, TTM",144,0.8647492593430569
+"FS_Average Receivables Collection Days, TTM",48,1.284726708682804
+FS_Cash & Cash Equivalents,148,0.9790856217224873
+FS_Common Shares - Outstanding - Total,7,1.041756023478243
+FS_Dividend Coverage - %,24,1.1129134387972037
+FS_Dividend Payout Ratio - %,102,0.9184627754105854
+"FS_Dividend Yield - Common Stock - Net - Issue Specific - %, TTM",83,1.6376702537522752
+FS_Earnings Retention Rate,25,1.0810542037876931
+"FS_Earnings Retention Rate, TTM",44,1.2172407725500338
+FS_Free Cash Flow Net of Dividends,145,0.8355240277064522
+"FS_Free Cash Flow Yield - %, TTM",84,1.7347710305086343
+FS_Income Tax Rate - %,133,0.6981520094522279
+FS_Income before Tax Margin - %,18,0.77474110199828
+"FS_Income before Tax Margin - %, TTM",8,0.7865815366912016
+FS_Interest Coverage Ratio,1,1.1150854519051039
+"FS_Inventory Turnover, TTM",12,1.1382880291422077
+FS_Net Change in Cash - Total,90,0.8537916989128143
+"FS_Payables Turnover, TTM",56,1.1355559970024436
+"FS_Pretax ROA - %, TTM",36,0.6948931224367572
+"FS_Pretax ROE - %, TTM",34,0.49616706298973334
+"FS_Reinvestment Rate - %, TTM",45,1.0310656234540447
+FS_Shares used to calculate Diluted EPS - Total,2,1.2787552022904631
+"IS_Amort of Intangibles, Supplemental",94,0.4627696984383276
+IS_DPS - Common Stock Primary Issue,114,0.8597157636122924
+IS_Excise Tax Receipts,54,1.2239605381369216
+IS_Gain (Loss) on Sale of Assets,99,0.900779851638303
+IS_Gross Dividends - Common Stock,100,0.6720818081781742
+IS_Income Tax - Total,134,0.6250944618129926
+IS_Interest Income - Non-Operating,132,0.6947849286202417
+IS_Investment Income - Non-Operating,118,0.8903442864046978
+IS_Other Tax,41,1.170474204334502
+"IS_Other, Net",9,1.1089641277082727
+IS_Selling/General/Administrative Expense,10,1.3113089090712728
+IS_Special DPS - Common Stock Primary Issue,107,0.4756157253334298
+ROGI(%),120,0.3689828084616664
+매입채무회전율,52,1.2543766330402033
+매출액증가율(YoY)(연도),38,0.6911897229798557
+매출채권회전율,26,0.8079121134712558
+순이익증가율(YoY)(비율),20,0.7086234298626163
+이자보상율,39,0.7554061506031089
+인당매출s,30,0.6885620537749166
+인당순이익s,28,0.7271453762224331
+인당영업이익s,29,0.6382705833938496
+자기자본비율,152,1.3303772777508995
+재고자산회전율(비율),60,1.1109012719183664
+투자비 대비 매출 (Rev/GI)s,121,0.3892512214208239
+현금배당성향(%),101,0.8402226694334279
+EV_EBITDA,92,0.0
+Gross Investment (GI),131,0.6543225909189406

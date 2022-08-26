@@ -1,0 +1,63 @@
+﻿company,variable,group,importance,corr_total,corr_sub
+TCS,FS_ROIC,FS,5.0,0.707,0.7
+TCS,ROE(지배)(비율),수익성,1.0,0.689,0.689
+TCS,FS_ROE,FS,5.0,0.689,0.689
+TCS,ROA(비율),수익성,1.0,0.679,0.676
+TCS,FS_ROA,FS,5.0,0.679,0.676
+TCS,BS_Period End FX Rate (INR/USD),BS,5.0,0.636,0.648
+TCS,IS_Avg. FX Rate (INR/USD),IS,5.0,0.634,0.645
+TCS,순이익증가율(YoY)(비율),성장성,1.0,0.615,0.556
+TCS,CF_Avg. FX Rate (INR/USD),CF,5.0,0.611,0.616
+TCS,EBITDA2증가율(YoY)(비율),성장성,1.0,0.606,0.578
+TCS,인당순이익s,수익성,2.0,0.603,0.597
+TCS,재고자산회전율(비율),활동성,2.0,0.6,0.58
+TCS,BS_Inventories - Finished Goods,BS,5.0,0.578,0.579
+TCS,BS_Accumulated Goodwill Amortization,BS,5.0,0.568,0.564
+TCS,BS_Redeemable Preferred Stock,BS,5.0,0.563,0.557
+TCS,"BS_Redeemable Preferred Stock, Total",BS,5.0,0.563,0.557
+TCS,영업이익증가율(YoY)(연도),성장성,1.0,0.548,
+TCS,"FS_Average Net Trade Cycle Days, TTM",FS,5.0,0.545,0.57
+TCS,"FS_Reinvestment Rate - %, TTM",FS,5.0,0.543,
+TCS,무형자산,안정성,2.0,0.517,0.502
+TCS,BS_Intangibles - Net,BS,5.0,0.517,0.502
+TCS,BS_Additional Paid-In Capital,BS,5.0,0.506,
+TCS,CF_Total Debt Issued,CF,5.0,0.506,
+TCS,BS_Shares Outstanding - Preferred Issue 1,BS,5.0,0.503,
+TCS,BS_Total Preferred Shares Outstanding,BS,5.0,0.503,
+TCS,BS_Total Assets,BS,5.0,-0.503,-0.515
+TCS,자산총계(천원),안정성,2.0,-0.503,-0.515
+TCS,FS_Total Assets,FS,5.0,-0.503,-0.514
+TCS,BS_Total Liabilities & Shareholders' Equity,BS,5.0,-0.503,-0.515
+TCS,Opex Margin,수익성,0.0,-0.504,
+TCS,CF_Total Debt Reduction,CF,5.0,-0.506,
+TCS,FS_Common Shares - Outstanding - Total,FS,5.0,-0.506,-0.53
+TCS,"FS_Dividend Yield - Common Stock - Net - Issue Specific - %, TTM",FS,5.0,-0.511,-0.577
+TCS,"BS_Tangible Book Value, Common Equity",BS,5.0,-0.512,-0.509
+TCS,Employment Number,ET,2.0,-0.515,-0.547
+TCS,BS_Total Equity & Minority Interest,BS,5.0,-0.515,-0.514
+TCS,FS_Common Equity - Total,FS,5.0,-0.515,-0.515
+TCS,BS_Total Equity,BS,5.0,-0.516,-0.515
+TCS,IS_Gross Revenue,IS,5.0,-0.516,-0.501
+TCS,이익잉여금(천원),수익성,2.0,-0.517,-0.517
+TCS,BS_Retained Earnings (Accumulated Deficit),BS,5.0,-0.517,-0.517
+TCS,"IS_Rental Expense, Supplemental",IS,5.0,-0.519,-0.509
+TCS,BS_Translation Adjustment,BS,5.0,-0.529,-0.549
+TCS,FS_Net Cash Flow from Operating Activities,FS,5.0,-0.534,-0.55
+TCS,BS_Cash,BS,5.0,-0.547,
+TCS,BS_Buildings - Gross,BS,5.0,-0.549,-0.544
+TCS,BS_Accumulated Goodwill Amortization Suppl.,BS,5.0,-0.568,-0.564
+TCS,"FS_Free Cash Flow Yield - %, TTM",FS,5.0,-0.581,-0.632
+TCS,"BS_Accumulated Depreciation, Total",BS,5.0,,0.507
+TCS,BS_Full-Time Employees,BS,5.0,,-0.528
+TCS,"BS_Intangibles, Net",BS,5.0,,0.628
+TCS,BS_Machinery/Equipment - Gross,BS,5.0,,-0.518
+TCS,BS_Total Current Assets,BS,5.0,,-0.506
+TCS,BS_Total Current Assets less Inventory,BS,5.0,,-0.506
+TCS,BS_Total Inventory,BS,5.0,,0.556
+TCS,Gross Investment (GI),성장성,2.0,,-0.509
+TCS,IS_Labor & Related Expense,IS,5.0,,-0.502
+TCS,IS_Labor & Related Expense Suppl.,IS,5.0,,-0.502
+TCS,IS_Other Operating Expense,IS,5.0,,-0.506
+TCS,"IS_Other Operating Expenses, Total",IS,5.0,,-0.506
+TCS,유동자산(천원),안정성,2.0,,-0.506
+TCS,유형자산감상비 누계,안정성,1.0,,0.507
